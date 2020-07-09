@@ -1,0 +1,2408 @@
+Customer ID,Age,Gender,Region,Marital Status,Education,Household Income,Loyalty Card,Loyalty Points
+CID_7225,63,Female,Urban,Married,High School,68000.0,1,6
+CID_10008,49,Male,Urban,Divorced,Graduate,62500.0,1,4
+CID_6297,51,Female,Suburban,Widowed,Graduate,58500.0,0,NA
+CID_5520,77,Female,Urban,Widowed,Graduate,52000.0,1,19
+CID_6454,28,Male,Suburban,Single,NA,27500.0,0,NA
+CID_9120,66,Female,Urban,Divorced,Post-Graduate,72000.0,0,NA
+CID_14544,55,Female,Urban,Widowed,High School,14500.0,1,0
+CID_7054,72,Male,Rural,Married,Graduate,40000.0,1,17
+CID_11672,59,Male,Suburban,Married,Post-Graduate,35000.0,0,NA
+CID_11096,49,Male,Rural,Single,High School,31500.0,1,53
+CID_11904,75,Female,Rural,Married,Graduate,29000.0,1,21
+CID_10340,77,Female,Urban,Widowed,High School,55500.0,1,18
+CID_13304,51,Male,Suburban,Divorced,High School,9000.0,0,NA
+CID_11699,40,Male,Urban,Married,Graduate,46500.0,0,NA
+CID_11190,39,Female,Urban,Married,Graduate,8000.0,1,14
+CID_11088,42,Female,Suburban,Civil partnered,High School,54000.0,1,14
+CID_14624,18,Female,Urban,Married,NA,33000.0,0,NA
+CID_6854,73,Male,Rural,Married,High School,81000.0,0,NA
+CID_13844,68,Female,Rural,Single,Graduate,61500.0,1,25
+CID_11917,70,Male,Urban,Single,Graduate,55500.0,1,24
+CID_5814,40,Male,Suburban,Divorced,High School,33000.0,0,NA
+CID_6257,33,Female,Urban,Civil partnered,Graduate,88500.0,1,2
+CID_12611,22,Male,Suburban,Single,Post-Graduate,72000.0,0,NA
+CID_12891,23,Female,Suburban,Married,Graduate,52000.0,0,NA
+CID_9384,21,Male,Rural,Divorced,Graduate,30500.0,1,4
+CID_8095,29,Male,Suburban,Divorced,Graduate,61000.0,0,NA
+CID_6265,50,Male,Urban,Single,Graduate,67500.0,0,NA
+CID_9500,70,Female,Suburban,Married,High School,40000.0,0,NA
+CID_13640,49,Male,Suburban,Single,High School,55500.0,1,21
+CID_12748,27,Male,Suburban,Married,Post-Graduate,32500.0,1,14
+CID_7532,55,Male,Suburban,Married,High School,70000.0,0,NA
+CID_6241,38,Female,Suburban,Divorced,Graduate,20000.0,1,2
+CID_11966,38,Female,Urban,Divorced,Post-Graduate,76000.0,1,37
+CID_5297,43,Female,Suburban,Divorced,Graduate,59000.0,1,34
+CID_12392,37,Female,Suburban,Single,Graduate,47500.0,0,NA
+CID_10018,41,Male,Suburban,Married,High School,53000.0,1,11
+CID_10402,26,Female,Rural,Divorced,Graduate,39500.0,1,10
+CID_8669,38,Male,Rural,Married,NA,75000.0,0,NA
+CID_11127,61,Male,Suburban,Married,High School,24500.0,0,NA
+CID_7428,46,Male,Rural,Divorced,High School,74000.0,1,12
+CID_10191,74,Female,Rural,Married,High School,75500.0,0,NA
+CID_7588,59,Female,Rural,Married,Graduate,33500.0,0,NA
+CID_11779,74,Male,Urban,Divorced,Graduate,30000.0,1,10
+CID_9681,53,Male,Suburban,Single,High School,50000.0,0,NA
+CID_13344,22,Male,Urban,Married,Post-Graduate,39000.0,1,38
+CID_14271,70,Male,Urban,Single,Graduate,57500.0,0,NA
+CID_13965,74,Male,Suburban,Single,High School,52000.0,0,NA
+CID_5491,33,Female,Rural,Married,Graduate,31500.0,1,33
+CID_8769,40,Female,Suburban,Civil partnered,Graduate,77500.0,0,NA
+CID_11892,74,Male,Suburban,Civil partnered,Post-Graduate,21500.0,0,NA
+CID_10229,60,Female,Urban,Civil partnered,Post-Graduate,66500.0,1,3
+CID_13639,33,Male,Suburban,Married,High School,80500.0,1,13
+CID_5217,31,Female,Rural,Married,Graduate,84000.0,1,29
+CID_10210,26,Female,Urban,Divorced,Graduate,49000.0,0,NA
+CID_6475,63,Male,Suburban,Married,Graduate,32500.0,1,11
+CID_12500,35,Male,Suburban,Married,Graduate,62500.0,0,NA
+CID_7567,28,Male,Rural,Married,Graduate,54500.0,1,14
+CID_9007,53,Female,Suburban,Civil partnered,Graduate,16500.0,0,NA
+CID_9052,76,Female,Suburban,Single,High School,34500.0,1,4
+CID_12323,72,Female,Rural,Divorced,Graduate,29000.0,1,28
+CID_13675,73,Female,Rural,Single,High School,56500.0,0,NA
+CID_14999,31,Female,Suburban,Divorced,NA,62000.0,0,NA
+CID_14157,73,Female,Suburban,Single,Graduate,24000.0,1,6
+CID_5168,67,Female,Urban,Married,Graduate,15500.0,0,NA
+CID_8303,71,Male,Suburban,Civil partnered,NA,86000.0,0,NA
+CID_11032,28,Male,Suburban,Civil partnered,High School,64500.0,0,NA
+CID_10533,29,Female,Rural,Married,Graduate,67500.0,1,16
+CID_6144,70,Female,Suburban,Married,High School,12000.0,0,NA
+CID_6339,74,Female,Urban,Divorced,Graduate,46000.0,1,17
+CID_7269,36,Female,Suburban,Married,Post-Graduate,34000.0,0,NA
+CID_8289,34,Male,Urban,Divorced,NA,49500.0,0,NA
+CID_12880,55,Female,Rural,Single,High School,85500.0,1,17
+CID_7191,61,Male,Suburban,Married,Graduate,25500.0,1,0
+CID_7329,63,Male,Suburban,Single,Graduate,53500.0,0,NA
+CID_14650,19,Female,Suburban,Married,Post-Graduate,68500.0,0,NA
+CID_12567,46,Female,Suburban,Widowed,High School,53000.0,1,9
+CID_10915,39,Female,Rural,Married,High School,10500.0,1,21
+CID_8771,40,Male,Suburban,Single,High School,16000.0,0,NA
+CID_12329,71,Female,Suburban,Single,Post-Graduate,44000.0,1,7
+CID_6606,63,Female,Urban,Married,Graduate,39500.0,1,21
+CID_9937,67,Male,Suburban,Divorced,Graduate,9000.0,1,16
+CID_14927,68,Female,Suburban,Married,Post-Graduate,67000.0,1,14
+CID_8718,40,Male,Rural,Single,Graduate,79500.0,0,NA
+CID_10413,21,Male,Suburban,Divorced,NA,17500.0,0,NA
+CID_9802,20,Female,Suburban,Married,Graduate,57500.0,0,NA
+CID_7378,27,Male,Suburban,Married,Graduate,32500.0,1,13
+CID_12007,55,Female,Suburban,Married,High School,36000.0,0,NA
+CID_11788,50,Female,Suburban,Married,Graduate,35500.0,0,NA
+CID_7247,40,Female,Suburban,Married,Post-Graduate,65500.0,1,9
+CID_7155,20,Male,Suburban,Married,High School,7500.0,1,1
+CID_5793,36,Female,Urban,Married,Post-Graduate,34500.0,1,10
+CID_9772,62,Female,Suburban,Married,Post-Graduate,13000.0,0,NA
+CID_14933,43,Male,Suburban,Married,High School,44500.0,0,NA
+CID_14575,71,Female,Suburban,Divorced,High School,69500.0,0,NA
+CID_10059,62,Male,Rural,Divorced,Graduate,6500.0,1,19
+CID_10641,75,Male,Suburban,Married,Post-Graduate,74500.0,0,NA
+CID_14067,69,Male,Suburban,Married,High School,84500.0,1,16
+CID_9990,34,Male,Urban,Single,NA,8000.0,0,NA
+CID_9574,30,Female,Suburban,Married,High School,72500.0,1,24
+CID_5027,57,Female,Rural,Married,High School,45500.0,1,0
+CID_10989,29,Male,Urban,Widowed,Graduate,9000.0,0,NA
+CID_13193,54,Male,Rural,Married,Graduate,7500.0,0,NA
+CID_10198,56,Male,Suburban,Married,High School,16500.0,1,21
+CID_10453,39,Male,Rural,Married,Post-Graduate,79000.0,0,NA
+CID_12102,50,Female,Suburban,Married,High School,71000.0,1,20
+CID_5499,77,Female,Urban,Married,Post-Graduate,71000.0,1,24
+CID_5346,62,Male,Suburban,Married,High School,89500.0,0,NA
+CID_7241,40,Male,Suburban,Married,Graduate,71500.0,1,26
+CID_12509,57,Male,Suburban,Divorced,Graduate,9000.0,0,NA
+CID_8962,22,Male,Urban,Married,Graduate,12000.0,0,NA
+CID_6223,19,Male,Suburban,Divorced,NA,54500.0,0,NA
+CID_11192,26,Male,Suburban,Married,NA,84000.0,1,13
+CID_11071,63,Female,Urban,Married,Graduate,38000.0,0,NA
+CID_13527,51,Male,Urban,Divorced,Graduate,44000.0,0,NA
+CID_10894,72,Female,Suburban,Married,Graduate,26000.0,0,NA
+CID_14842,58,Female,Urban,Married,Graduate,80500.0,1,30
+CID_12968,54,Female,Urban,Married,High School,64500.0,0,NA
+CID_8098,59,Male,Urban,Married,Graduate,82000.0,1,10
+CID_5938,36,Male,Suburban,Single,NA,17000.0,0,NA
+CID_8606,57,Male,Suburban,Married,Post-Graduate,23000.0,0,NA
+CID_9321,74,Male,Rural,Divorced,Graduate,30500.0,0,NA
+CID_13592,77,Female,Suburban,Married,Graduate,60500.0,0,NA
+CID_8245,28,Male,Urban,Married,Graduate,65000.0,0,NA
+CID_14448,77,Male,Rural,Married,Graduate,76500.0,0,NA
+CID_9049,22,Male,Suburban,Married,High School,84000.0,1,43
+CID_14807,77,Female,Suburban,Married,Graduate,59500.0,0,NA
+CID_9080,42,Female,Suburban,Divorced,High School,63000.0,1,7
+CID_7140,25,Male,Urban,Married,Graduate,41500.0,1,52
+CID_13159,19,Male,Suburban,Divorced,Graduate,28000.0,0,NA
+CID_13974,41,Male,Urban,Divorced,Post-Graduate,31000.0,1,17
+CID_8279,56,Male,Rural,Married,Graduate,62000.0,0,NA
+CID_12579,43,Male,Suburban,Married,Post-Graduate,68500.0,1,20
+CID_8408,21,Female,Rural,Married,Graduate,28000.0,1,2
+CID_7959,23,Male,Suburban,Single,Graduate,18000.0,1,22
+CID_11368,64,Male,Suburban,Divorced,Graduate,33000.0,0,NA
+CID_6177,20,Male,Urban,Divorced,Graduate,30500.0,0,NA
+CID_5387,57,Male,Suburban,Civil partnered,NA,41000.0,1,37
+CID_8610,69,Male,Urban,Single,Graduate,54000.0,0,NA
+CID_10980,19,Male,Urban,Married,Graduate,28000.0,1,25
+CID_13369,39,Female,Suburban,Married,High School,19000.0,0,NA
+CID_8950,29,Female,Suburban,Married,Graduate,12500.0,0,NA
+CID_13123,63,Male,Rural,Single,Graduate,54500.0,1,8
+CID_8295,18,Male,Rural,Married,Post-Graduate,43000.0,1,23
+CID_5224,54,Female,Suburban,Married,Graduate,65000.0,1,6
+CID_11657,52,Female,Urban,Married,NA,64000.0,0,NA
+CID_14241,23,Female,Urban,Married,Post-Graduate,52500.0,0,NA
+CID_13623,37,Female,Rural,Single,High School,45000.0,1,2
+CID_5302,18,Female,Rural,Married,Graduate,37500.0,0,NA
+CID_11171,31,Male,Rural,Married,Graduate,26500.0,1,16
+CID_7994,67,Female,Rural,Married,Graduate,69500.0,0,NA
+CID_7114,34,Female,Urban,Single,Graduate,84500.0,1,17
+CID_12384,38,Female,Rural,Divorced,Graduate,69000.0,0,NA
+CID_8112,34,Female,Urban,Single,Graduate,77000.0,0,NA
+CID_11649,75,Male,Urban,Divorced,High School,26500.0,1,3
+CID_7698,71,Male,Rural,Widowed,High School,7000.0,1,20
+CID_10782,24,Male,Urban,Single,Graduate,12000.0,1,12
+CID_7673,58,Female,Suburban,Widowed,Graduate,78500.0,1,3
+CID_12527,18,Male,Suburban,Single,NA,29000.0,0,NA
+CID_14364,44,Male,Urban,Divorced,Graduate,6000.0,0,NA
+CID_13670,31,Female,Urban,Married,Post-Graduate,67000.0,1,27
+CID_12465,57,Male,Urban,Married,Post-Graduate,26500.0,1,16
+CID_11410,41,Female,Urban,Divorced,High School,20000.0,1,5
+CID_12237,72,Female,Suburban,Widowed,High School,55500.0,0,NA
+CID_5588,61,Male,Suburban,Married,High School,14000.0,0,NA
+CID_10296,75,Male,Suburban,Divorced,Graduate,23500.0,0,NA
+CID_12451,54,Male,Suburban,Divorced,Graduate,58500.0,1,3
+CID_7380,61,Female,Suburban,Widowed,Graduate,17000.0,0,NA
+CID_13711,58,Male,Rural,Married,High School,77500.0,1,10
+CID_11487,69,Male,Rural,Divorced,High School,21000.0,1,16
+CID_6902,40,Female,Rural,Divorced,NA,22500.0,0,NA
+CID_12055,41,Female,Suburban,Single,High School,84500.0,1,8
+CID_10074,35,Female,Rural,Married,NA,33000.0,0,NA
+CID_9700,62,Male,Suburban,Married,Graduate,65000.0,0,NA
+CID_13976,76,Male,Suburban,Single,Post-Graduate,59000.0,1,19
+CID_11030,33,Male,Suburban,Divorced,High School,55500.0,0,NA
+CID_9226,25,Female,Suburban,Single,Post-Graduate,51000.0,1,15
+CID_14335,35,Male,Suburban,Married,High School,70500.0,0,NA
+CID_12775,60,Female,Suburban,Divorced,Graduate,34500.0,1,26
+CID_7940,46,Female,Rural,Married,Post-Graduate,6500.0,0,NA
+CID_6672,77,Female,Suburban,Married,Graduate,40500.0,0,NA
+CID_13218,21,Female,Suburban,Single,Graduate,12000.0,1,23
+CID_14975,38,Female,Suburban,Widowed,Post-Graduate,6500.0,0,NA
+CID_7486,49,Male,Urban,Civil partnered,Graduate,6000.0,0,NA
+CID_12056,64,Male,Suburban,Civil partnered,Graduate,77000.0,0,NA
+CID_6705,57,Male,Rural,Married,High School,11500.0,0,NA
+CID_5384,20,Male,Urban,Widowed,Graduate,77000.0,0,NA
+CID_12012,67,Male,Urban,Divorced,High School,44000.0,1,23
+CID_9691,47,Male,Urban,Civil partnered,Post-Graduate,7500.0,0,NA
+CID_11832,42,Male,Rural,Divorced,Graduate,6500.0,1,6
+CID_10182,27,Female,Rural,Divorced,Graduate,77500.0,1,17
+CID_6028,18,Male,Urban,Married,NA,77500.0,1,22
+CID_9248,52,Male,Rural,Married,Post-Graduate,84000.0,1,0
+CID_9037,53,Male,Suburban,Civil partnered,Post-Graduate,86000.0,1,10
+CID_7826,68,Male,Urban,Widowed,High School,85000.0,0,NA
+CID_9075,73,Male,Suburban,Widowed,Post-Graduate,86500.0,1,8
+CID_6704,24,Female,Urban,Married,Post-Graduate,34500.0,1,10
+CID_11279,46,Male,Urban,Widowed,Graduate,8000.0,0,NA
+CID_8125,62,Female,Rural,Married,Graduate,60000.0,1,6
+CID_5056,24,Male,Suburban,Single,Graduate,55500.0,0,NA
+CID_10950,34,Female,Suburban,Divorced,Post-Graduate,34500.0,0,NA
+CID_10954,24,Female,Urban,Single,Graduate,27500.0,0,NA
+CID_13853,60,Male,Suburban,Divorced,High School,50000.0,1,11
+CID_12395,46,Male,Urban,Married,Graduate,29000.0,0,NA
+CID_14246,24,Female,Suburban,Divorced,Graduate,55000.0,1,15
+CID_6289,56,Male,Suburban,Divorced,Graduate,29000.0,0,NA
+CID_9725,18,Female,Rural,Single,Graduate,79000.0,1,12
+CID_11785,25,Female,Urban,Married,High School,37000.0,1,34
+CID_9475,41,Female,Rural,Civil partnered,Graduate,10000.0,0,NA
+CID_13416,57,Female,Rural,Single,Graduate,75000.0,0,NA
+CID_11607,71,Male,Rural,Single,Graduate,71000.0,0,NA
+CID_6637,50,Female,Urban,Single,Graduate,33500.0,1,25
+CID_10717,69,Female,Rural,Civil partnered,High School,69000.0,0,NA
+CID_13206,72,Female,Suburban,Single,Graduate,57500.0,0,NA
+CID_6435,36,Female,Rural,Single,Graduate,24000.0,0,NA
+CID_11602,77,Male,Rural,Civil partnered,High School,29000.0,1,11
+CID_12596,27,Female,Suburban,Married,Graduate,28500.0,0,NA
+CID_7746,47,Female,Suburban,Divorced,Post-Graduate,10000.0,0,NA
+CID_13663,67,Female,Urban,Married,Graduate,51500.0,1,31
+CID_13093,28,Female,Urban,Single,High School,49500.0,0,NA
+CID_14928,61,Female,Suburban,Married,High School,12500.0,1,13
+CID_6913,51,Female,Suburban,Divorced,Post-Graduate,61500.0,0,NA
+CID_14472,66,Male,Urban,Married,High School,48000.0,0,NA
+CID_9803,36,Female,Urban,Divorced,Graduate,47500.0,0,NA
+CID_13933,18,Male,Suburban,Divorced,High School,89000.0,1,15
+CID_10762,73,Male,Urban,Civil partnered,Post-Graduate,59500.0,1,26
+CID_7151,20,Male,Suburban,Single,High School,12000.0,0,NA
+CID_12371,42,Female,Rural,Married,NA,22500.0,0,NA
+CID_5041,62,Male,Suburban,Civil partnered,High School,37500.0,0,NA
+CID_7630,18,Male,Urban,Single,High School,10000.0,0,NA
+CID_11842,71,Female,Rural,Married,Post-Graduate,78500.0,0,NA
+CID_12716,26,Male,Rural,Single,Graduate,25000.0,0,NA
+CID_5290,69,Female,Suburban,Married,Post-Graduate,72500.0,0,NA
+CID_9302,72,Female,Suburban,Married,Graduate,48000.0,1,18
+CID_7591,69,Female,Suburban,Widowed,Graduate,29500.0,1,14
+CID_6543,19,Male,Rural,Divorced,High School,76500.0,1,18
+CID_7201,21,Female,Suburban,Single,High School,69500.0,0,NA
+CID_14816,51,Female,Suburban,Married,Post-Graduate,8000.0,0,NA
+CID_8088,42,Female,Rural,Widowed,Graduate,19500.0,0,NA
+CID_7158,49,Female,Urban,Civil partnered,NA,79500.0,1,16
+CID_10909,40,Male,Rural,Single,Graduate,50000.0,1,30
+CID_7615,31,Male,Urban,Divorced,Post-Graduate,84500.0,1,18
+CID_12547,55,Male,Urban,Divorced,Graduate,33000.0,1,15
+CID_6880,24,Female,Urban,Married,Graduate,79500.0,1,16
+CID_9849,22,Male,Suburban,Divorced,Graduate,53000.0,1,6
+CID_13534,30,Male,Urban,Married,Post-Graduate,52500.0,0,NA
+CID_9178,71,Female,Suburban,Divorced,Post-Graduate,48500.0,1,8
+CID_8502,54,Female,Suburban,Divorced,Graduate,63500.0,1,15
+CID_6114,27,Female,Urban,Married,High School,73500.0,1,10
+CID_5475,53,Female,Suburban,Married,Graduate,78000.0,1,24
+CID_13656,55,Female,Rural,Married,High School,49500.0,1,25
+CID_8956,24,Female,Rural,Married,High School,39500.0,0,NA
+CID_6836,59,Female,Rural,Divorced,Post-Graduate,78500.0,0,NA
+CID_12458,43,Male,Suburban,Single,Post-Graduate,11500.0,1,13
+CID_6315,47,Male,Rural,Divorced,Graduate,80000.0,1,11
+CID_5797,37,Female,Urban,Married,Graduate,53000.0,0,NA
+CID_12040,58,Female,Suburban,Single,High School,10000.0,0,NA
+CID_14255,33,Female,Suburban,Widowed,High School,71000.0,1,28
+CID_14044,69,Male,Rural,Married,Graduate,55500.0,0,NA
+CID_8831,54,Female,Urban,Married,High School,37000.0,1,20
+CID_9900,21,Male,Suburban,Married,Graduate,57500.0,0,NA
+CID_13296,45,Male,Suburban,Divorced,High School,69500.0,1,17
+CID_9513,63,Female,Rural,Divorced,Post-Graduate,14500.0,1,0
+CID_7026,66,Female,Suburban,Civil partnered,NA,71500.0,1,19
+CID_10038,70,Female,Urban,Civil partnered,Graduate,58000.0,0,NA
+CID_9588,58,Female,Suburban,Single,High School,67000.0,0,NA
+CID_7126,71,Female,Urban,Single,High School,39500.0,0,NA
+CID_6377,38,Male,Urban,Single,Post-Graduate,11500.0,0,NA
+CID_13020,33,Male,Suburban,Widowed,Graduate,48000.0,0,NA
+CID_10090,43,Female,Rural,Married,Post-Graduate,89000.0,1,4
+CID_6642,65,Male,Suburban,Married,High School,64500.0,1,7
+CID_9654,36,Female,Suburban,Single,Post-Graduate,71500.0,1,27
+CID_14826,46,Female,Suburban,Married,Post-Graduate,48500.0,0,NA
+CID_8025,65,Male,Rural,Married,Graduate,25500.0,0,NA
+CID_5214,47,Female,Suburban,Widowed,Graduate,62000.0,1,16
+CID_10149,40,Female,Rural,Divorced,Graduate,15000.0,0,NA
+CID_5258,36,Male,Suburban,Single,Graduate,55500.0,0,NA
+CID_12249,19,Male,Rural,Married,Graduate,42000.0,1,16
+CID_13989,44,Male,Urban,Married,Graduate,72000.0,1,0
+CID_14705,75,Female,Suburban,Single,Graduate,65500.0,0,NA
+CID_5604,27,Female,Rural,Single,Graduate,65500.0,0,NA
+CID_14030,28,Male,Rural,Married,Graduate,66000.0,0,NA
+CID_12737,28,Male,Suburban,Married,Graduate,14500.0,0,NA
+CID_14565,53,Female,Urban,Married,Graduate,71500.0,1,10
+CID_12255,55,Male,Suburban,Single,Post-Graduate,79000.0,0,NA
+CID_14670,38,Male,Urban,Married,Graduate,64000.0,1,22
+CID_12633,19,Male,Suburban,Divorced,Post-Graduate,62500.0,0,NA
+CID_12054,70,Female,Suburban,Divorced,Post-Graduate,26000.0,0,NA
+CID_14775,37,Female,Rural,Married,Graduate,70000.0,0,NA
+CID_7742,55,Male,Rural,Married,Graduate,66500.0,0,NA
+CID_6234,30,Male,Rural,Single,Graduate,20000.0,1,32
+CID_10510,53,Male,Suburban,Married,Graduate,37500.0,0,NA
+CID_14095,53,Male,Suburban,Married,High School,67500.0,1,11
+CID_11167,41,Male,Rural,Divorced,Post-Graduate,89000.0,0,NA
+CID_13046,69,Female,Urban,Divorced,Graduate,83000.0,1,25
+CID_14610,53,Female,Rural,Widowed,High School,12000.0,0,NA
+CID_11540,55,Male,Suburban,Single,Post-Graduate,57000.0,1,13
+CID_13028,55,Male,Rural,Widowed,High School,21500.0,1,21
+CID_10478,50,Female,Suburban,Single,High School,44000.0,0,NA
+CID_14019,29,Female,Suburban,Married,Graduate,37500.0,1,22
+CID_13328,35,Female,Rural,Civil partnered,Post-Graduate,23000.0,0,NA
+CID_7390,61,Male,Rural,Single,High School,48000.0,0,NA
+CID_6083,32,Female,Suburban,Divorced,Graduate,17000.0,1,32
+CID_6819,18,Male,Urban,Divorced,High School,29500.0,0,NA
+CID_6262,19,Female,Urban,Married,Post-Graduate,11000.0,0,NA
+CID_6656,51,Female,Suburban,Married,Graduate,57500.0,1,35
+CID_9507,47,Male,Suburban,Single,Graduate,84500.0,1,12
+CID_12679,22,Female,Urban,Widowed,High School,55000.0,1,22
+CID_13725,55,Male,Rural,Single,High School,69000.0,0,NA
+CID_5670,25,Male,Suburban,Married,Graduate,57000.0,1,8
+CID_14690,51,Female,Suburban,Single,Post-Graduate,64500.0,0,NA
+CID_8356,63,Male,Suburban,Married,Graduate,7000.0,0,NA
+CID_12605,45,Female,Suburban,Married,Graduate,68500.0,0,NA
+CID_6765,67,Male,Urban,Divorced,Graduate,19000.0,1,4
+CID_11452,62,Female,Urban,Married,High School,17000.0,1,11
+CID_11114,40,Female,Rural,Married,Graduate,60000.0,1,26
+CID_10465,47,Male,Suburban,Widowed,NA,26000.0,0,NA
+CID_7549,47,Female,Suburban,Married,High School,40000.0,0,NA
+CID_12920,56,Male,Urban,Married,Graduate,56000.0,1,10
+CID_13150,28,Female,Suburban,Civil partnered,High School,11000.0,1,5
+CID_10715,44,Female,Urban,Married,High School,62000.0,0,NA
+CID_10691,39,Female,Rural,Widowed,Graduate,65500.0,0,NA
+CID_11814,25,Male,Suburban,Divorced,High School,86500.0,1,20
+CID_8357,74,Female,Rural,Married,NA,59000.0,0,NA
+CID_12267,38,Male,Suburban,Divorced,High School,15500.0,1,15
+CID_7040,52,Female,Urban,Civil partnered,Graduate,27500.0,0,NA
+CID_11264,62,Male,Rural,Married,Post-Graduate,27500.0,0,NA
+CID_8325,37,Female,Suburban,Widowed,Graduate,73000.0,1,47
+CID_10869,28,Male,Suburban,Married,Graduate,9500.0,1,25
+CID_11632,20,Female,Suburban,Married,Graduate,39500.0,0,NA
+CID_12382,43,Female,Suburban,Married,Graduate,60000.0,1,29
+CID_11383,21,Female,Suburban,Married,Graduate,67500.0,1,13
+CID_13119,23,Male,Rural,Widowed,High School,74500.0,1,17
+CID_13023,74,Female,Suburban,Civil partnered,Post-Graduate,74500.0,0,NA
+CID_11874,32,Female,Rural,Married,Graduate,45000.0,1,14
+CID_12118,46,Male,Suburban,Married,Graduate,30500.0,0,NA
+CID_6078,45,Male,Suburban,Married,NA,38500.0,0,NA
+CID_14511,27,Female,Urban,Married,NA,56500.0,0,NA
+CID_13626,57,Male,Urban,Divorced,High School,87000.0,1,11
+CID_5788,73,Female,Urban,Single,Post-Graduate,11500.0,1,5
+CID_12067,59,Female,Urban,Married,Graduate,8000.0,0,NA
+CID_10455,75,Female,Suburban,Married,High School,76500.0,1,39
+CID_9208,31,Female,Suburban,Married,Post-Graduate,29000.0,0,NA
+CID_6892,31,Male,Urban,Married,Graduate,11000.0,1,17
+CID_12756,71,Male,Suburban,Married,Graduate,68500.0,0,NA
+CID_8655,69,Female,Rural,Married,Graduate,63500.0,1,0
+CID_6976,71,Male,Suburban,Divorced,Graduate,53500.0,1,29
+CID_12647,37,Female,Urban,Married,Post-Graduate,12000.0,0,NA
+CID_9752,48,Male,Urban,Married,Graduate,60000.0,0,NA
+CID_12556,34,Male,Suburban,Divorced,High School,28500.0,1,23
+CID_13379,46,Male,Rural,Married,Graduate,79000.0,0,NA
+CID_5412,37,Female,Rural,Single,High School,21500.0,0,NA
+CID_10111,64,Female,Rural,Married,High School,37000.0,0,NA
+CID_11523,45,Female,Urban,Widowed,Graduate,88500.0,1,26
+CID_14098,49,Female,Rural,Married,NA,67500.0,1,26
+CID_5142,29,Female,Urban,Married,Graduate,86000.0,1,24
+CID_14132,46,Male,Suburban,Divorced,Graduate,40500.0,1,20
+CID_14583,22,Male,Suburban,Single,Graduate,73500.0,1,14
+CID_8461,20,Male,Urban,Divorced,Graduate,71500.0,1,7
+CID_13009,61,Female,Urban,Married,High School,44000.0,0,NA
+CID_6226,77,Male,Suburban,Widowed,Graduate,79500.0,0,NA
+CID_12842,48,Female,Suburban,Widowed,High School,86000.0,1,0
+CID_14251,58,Male,Suburban,Widowed,Graduate,60000.0,0,NA
+CID_9062,69,Female,Rural,Married,High School,25500.0,0,NA
+CID_12042,56,Male,Urban,Divorced,Graduate,87000.0,0,NA
+CID_7418,32,Male,Suburban,Divorced,NA,19000.0,1,40
+CID_12093,25,Female,Rural,Single,High School,40500.0,0,NA
+CID_5820,31,Female,Urban,Single,Post-Graduate,72000.0,0,NA
+CID_11719,40,Female,Urban,Married,High School,66500.0,0,NA
+CID_7610,25,Male,Rural,Married,Graduate,65000.0,0,NA
+CID_6742,45,Female,Urban,Married,High School,61000.0,0,NA
+CID_10147,69,Male,Rural,Divorced,High School,9000.0,1,7
+CID_8761,55,Female,Urban,Married,Graduate,54000.0,1,9
+CID_5024,24,Female,Suburban,Single,High School,39000.0,1,18
+CID_11323,23,Female,Urban,Single,Graduate,63500.0,0,NA
+CID_7820,76,Male,Suburban,Married,Post-Graduate,87000.0,0,NA
+CID_9230,44,Male,Suburban,Divorced,NA,9500.0,0,NA
+CID_13354,32,Female,Suburban,Married,Post-Graduate,81000.0,1,30
+CID_10649,59,Male,Suburban,Married,High School,70000.0,1,6
+CID_8684,39,Female,Suburban,Married,High School,80000.0,0,NA
+CID_7144,28,Male,Suburban,Married,High School,31500.0,1,32
+CID_10702,22,Female,Suburban,Divorced,High School,58500.0,0,NA
+CID_14649,19,Female,Rural,Single,NA,6500.0,0,NA
+CID_6821,52,Female,Suburban,Married,Graduate,36500.0,1,7
+CID_10178,34,Male,Suburban,Widowed,Post-Graduate,40000.0,1,31
+CID_14707,75,Female,Rural,Married,Graduate,36500.0,1,33
+CID_10025,24,Male,Suburban,Married,Graduate,66000.0,1,16
+CID_13310,74,Male,Rural,Divorced,Graduate,85000.0,1,6
+CID_12940,71,Male,Rural,Married,Graduate,84000.0,1,7
+CID_8136,29,Female,Urban,Divorced,Post-Graduate,58500.0,1,44
+CID_12973,52,Male,Rural,Single,Post-Graduate,74000.0,1,23
+CID_13915,47,Female,Rural,Married,NA,49500.0,0,NA
+CID_13080,75,Male,Urban,Married,High School,43500.0,0,NA
+CID_6061,19,Male,Suburban,Divorced,NA,72500.0,1,14
+CID_7385,52,Female,Suburban,Married,Graduate,46500.0,0,NA
+CID_14619,48,Male,Rural,Married,Post-Graduate,41500.0,1,37
+CID_12508,30,Female,Suburban,Married,Graduate,80000.0,1,18
+CID_10384,53,Male,Rural,Single,Graduate,86000.0,0,NA
+CID_6271,27,Female,Urban,Civil partnered,Graduate,39500.0,0,NA
+CID_7608,21,Female,Rural,Married,High School,50500.0,0,NA
+CID_7265,35,Male,Suburban,Widowed,Graduate,69000.0,1,26
+CID_13883,70,Male,Suburban,Single,Graduate,26000.0,0,NA
+CID_8596,31,Male,Suburban,Married,Graduate,51500.0,0,NA
+CID_13805,29,Female,Suburban,Divorced,Graduate,40500.0,0,NA
+CID_7353,71,Male,Suburban,Divorced,Graduate,46500.0,0,NA
+CID_12386,31,Female,Suburban,Civil partnered,High School,77000.0,0,NA
+CID_13404,63,Female,Rural,Married,Graduate,85000.0,1,34
+CID_13882,62,Male,Urban,Divorced,Graduate,81500.0,0,NA
+CID_6802,47,Male,Urban,Married,Post-Graduate,75500.0,0,NA
+CID_9547,31,Male,Suburban,Divorced,Post-Graduate,79000.0,1,28
+CID_6890,77,Female,Suburban,Married,Post-Graduate,81500.0,0,NA
+CID_13034,43,Female,Urban,Married,Graduate,55500.0,1,25
+CID_6034,19,Male,Rural,Civil partnered,Graduate,28500.0,0,NA
+CID_10862,50,Male,Urban,Married,Post-Graduate,58000.0,1,15
+CID_13963,63,Female,Urban,Divorced,Graduate,49000.0,0,NA
+CID_6068,31,Female,Rural,Married,Graduate,76500.0,0,NA
+CID_11125,70,Male,Suburban,Married,Graduate,58000.0,1,48
+CID_12204,70,Male,Suburban,Single,Graduate,42000.0,1,33
+CID_7208,54,Male,Suburban,Married,Graduate,55500.0,0,NA
+CID_5106,63,Female,Urban,Divorced,High School,79500.0,1,4
+CID_6085,26,Female,Suburban,Married,Graduate,89500.0,0,NA
+CID_11482,64,Female,Urban,Divorced,Graduate,63000.0,0,NA
+CID_7018,59,Male,Urban,Married,Post-Graduate,39500.0,0,NA
+CID_13051,77,Male,Urban,Divorced,Graduate,78500.0,0,NA
+CID_13893,20,Female,Urban,Married,Graduate,86500.0,1,11
+CID_12927,61,Male,Suburban,Married,High School,52500.0,0,NA
+CID_13276,61,Female,Suburban,Single,NA,61000.0,1,39
+CID_11548,20,Male,Suburban,Single,NA,39500.0,0,NA
+CID_14542,36,Female,Suburban,Civil partnered,Graduate,33000.0,0,NA
+CID_11893,66,Female,Urban,Single,Graduate,80000.0,0,NA
+CID_11134,21,Female,Suburban,Widowed,Graduate,66000.0,1,17
+CID_12904,49,Female,Suburban,Divorced,High School,43500.0,1,23
+CID_7402,27,Female,Suburban,Married,High School,55500.0,1,22
+CID_13466,44,Female,Suburban,Single,Post-Graduate,42500.0,1,30
+CID_12436,37,Female,Urban,Married,Graduate,38500.0,1,15
+CID_14291,75,Male,Suburban,Married,Graduate,48000.0,0,NA
+CID_6024,19,Male,Suburban,Married,Post-Graduate,27500.0,1,5
+CID_12283,46,Female,Rural,Single,High School,31000.0,1,16
+CID_14581,66,Male,Urban,Divorced,Post-Graduate,88500.0,1,17
+CID_8601,33,Male,Urban,Married,Post-Graduate,52000.0,0,NA
+CID_8196,71,Female,Suburban,Divorced,High School,29500.0,1,6
+CID_5289,56,Male,Rural,Married,Graduate,9500.0,1,12
+CID_7193,23,Male,Rural,Divorced,High School,6000.0,1,11
+CID_6127,28,Female,Urban,Divorced,High School,70500.0,1,9
+CID_10103,49,Male,Urban,Single,Graduate,23500.0,0,NA
+CID_7316,70,Male,Urban,Single,Post-Graduate,88500.0,1,17
+CID_11805,33,Female,Rural,Married,High School,31000.0,0,NA
+CID_13437,37,Female,Suburban,Married,High School,31500.0,0,NA
+CID_7840,34,Female,Suburban,Civil partnered,Graduate,50000.0,1,31
+CID_14753,27,Male,Rural,Married,Graduate,59500.0,1,13
+CID_11051,71,Male,Urban,Single,High School,11500.0,1,0
+CID_5911,54,Female,Urban,Married,NA,67000.0,0,NA
+CID_7120,52,Female,Urban,Civil partnered,Post-Graduate,81500.0,1,16
+CID_14863,66,Female,Suburban,Civil partnered,High School,59500.0,0,NA
+CID_12242,58,Female,Urban,Married,Graduate,21000.0,0,NA
+CID_9280,63,Female,Suburban,Single,Graduate,69500.0,1,17
+CID_12557,69,Female,Suburban,Single,Graduate,15000.0,0,NA
+CID_13907,23,Male,Urban,Divorced,High School,33000.0,1,32
+CID_9529,58,Male,Rural,Civil partnered,Graduate,14000.0,1,25
+CID_5444,55,Male,Rural,Single,Post-Graduate,10500.0,0,NA
+CID_9101,71,Male,Suburban,Married,High School,35500.0,0,NA
+CID_8503,64,Female,Rural,Divorced,Graduate,84500.0,1,26
+CID_11491,36,Male,Suburban,Married,High School,42500.0,0,NA
+CID_10920,50,Female,Suburban,Married,Graduate,74000.0,1,9
+CID_10020,70,Male,Urban,Married,Graduate,89000.0,0,NA
+CID_8539,49,Female,Urban,Married,Graduate,56500.0,0,NA
+CID_13779,55,Female,Suburban,Married,NA,56000.0,1,5
+CID_12666,61,Male,Suburban,Divorced,Graduate,21500.0,1,17
+CID_5544,77,Female,Rural,Married,High School,24000.0,0,NA
+CID_14369,61,Male,Urban,Single,High School,44000.0,1,27
+CID_13342,42,Male,Rural,Married,Graduate,63000.0,1,9
+CID_5398,41,Female,Suburban,Single,Post-Graduate,13000.0,0,NA
+CID_12072,52,Female,Suburban,Single,Graduate,78000.0,0,NA
+CID_10805,51,Male,Rural,Single,High School,75500.0,1,7
+CID_9051,27,Female,Suburban,Married,Graduate,28000.0,1,11
+CID_8477,23,Female,Rural,Civil partnered,High School,37000.0,1,20
+CID_7641,72,Male,Urban,Married,Graduate,66500.0,1,40
+CID_12086,51,Female,Suburban,Widowed,Graduate,28000.0,1,12
+CID_10120,69,Female,Suburban,Married,High School,74500.0,0,NA
+CID_10313,68,Male,Suburban,Single,High School,86500.0,0,NA
+CID_7757,45,Female,Suburban,Divorced,High School,68000.0,0,NA
+CID_14105,77,Female,Urban,Married,Graduate,46000.0,0,NA
+CID_14235,45,Female,Rural,Single,NA,61000.0,1,30
+CID_8888,74,Male,Rural,Divorced,Graduate,54000.0,1,20
+CID_14588,23,Female,Suburban,Divorced,High School,88000.0,0,NA
+CID_6060,55,Male,Urban,Married,High School,23000.0,1,10
+CID_7337,38,Male,Suburban,Divorced,Graduate,58000.0,0,NA
+CID_14720,34,Male,Rural,Single,Graduate,71000.0,0,NA
+CID_8516,63,Female,Rural,Married,Graduate,45000.0,1,15
+CID_8047,69,Male,Urban,Married,Graduate,21500.0,0,NA
+CID_6770,23,Female,Suburban,Married,Post-Graduate,43500.0,1,25
+CID_5819,29,Male,Rural,Divorced,Graduate,43000.0,1,26
+CID_9084,76,Female,Suburban,Married,Graduate,48000.0,1,11
+CID_8889,24,Male,Suburban,Married,Post-Graduate,35000.0,0,NA
+CID_9567,70,Male,Suburban,Divorced,Graduate,20000.0,1,16
+CID_9243,73,Female,Urban,Divorced,Post-Graduate,72000.0,0,NA
+CID_13278,71,Female,Suburban,Married,Graduate,11500.0,0,NA
+CID_9585,22,Male,Rural,Single,Graduate,14500.0,1,30
+CID_8063,33,Female,Rural,Married,High School,9000.0,0,NA
+CID_14313,48,Female,Rural,Divorced,Graduate,65000.0,1,18
+CID_5953,64,Female,Suburban,Married,Post-Graduate,33000.0,0,NA
+CID_11927,51,Female,Suburban,Divorced,Graduate,64000.0,1,27
+CID_14250,42,Male,Rural,Divorced,Graduate,27000.0,1,15
+CID_7519,22,Female,Rural,Civil partnered,NA,53000.0,0,NA
+CID_14355,31,Female,Suburban,Married,Graduate,47500.0,1,13
+CID_12524,27,Female,Rural,Widowed,Post-Graduate,37000.0,1,1
+CID_6812,28,Male,Urban,Married,High School,51500.0,1,0
+CID_11351,45,Female,Suburban,Widowed,High School,18000.0,0,NA
+CID_8535,74,Male,Urban,Divorced,NA,83000.0,1,5
+CID_11716,42,Female,Suburban,Married,Graduate,40500.0,1,41
+CID_8506,38,Male,Suburban,Single,Graduate,39500.0,0,NA
+CID_8998,41,Female,Suburban,Married,High School,30500.0,1,6
+CID_6688,55,Female,Urban,Married,High School,65500.0,1,22
+CID_9262,69,Male,Suburban,Married,Graduate,21500.0,0,NA
+CID_12606,53,Female,Rural,Widowed,Graduate,60000.0,0,NA
+CID_7258,49,Male,Urban,Married,Graduate,23000.0,1,5
+CID_11175,44,Female,Suburban,Widowed,High School,45000.0,0,NA
+CID_11847,66,Female,Rural,Widowed,Graduate,79500.0,1,22
+CID_6763,21,Male,Rural,Single,Post-Graduate,27000.0,1,12
+CID_13555,41,Male,Suburban,Widowed,High School,56500.0,0,NA
+CID_7894,54,Male,Urban,Married,Post-Graduate,11000.0,0,NA
+CID_11021,18,Female,Suburban,Single,High School,72000.0,1,55
+CID_8491,25,Female,Suburban,Civil partnered,Graduate,35000.0,1,1
+CID_7499,75,Female,Rural,Widowed,High School,53500.0,0,NA
+CID_5490,25,Female,Rural,Single,Post-Graduate,60000.0,0,NA
+CID_13045,34,Female,Suburban,Single,Graduate,18500.0,0,NA
+CID_9813,35,Male,Rural,Civil partnered,Graduate,44000.0,0,NA
+CID_9169,65,Male,Suburban,Widowed,Graduate,72000.0,1,27
+CID_12339,33,Male,Suburban,Civil partnered,High School,32000.0,1,19
+CID_8884,32,Male,Rural,Single,High School,13000.0,1,19
+CID_6778,48,Male,Suburban,Married,High School,11500.0,0,NA
+CID_12618,20,Female,Urban,Divorced,High School,52500.0,0,NA
+CID_13777,61,Male,Urban,Divorced,Graduate,47000.0,0,NA
+CID_8567,65,Female,Suburban,Married,High School,23000.0,0,NA
+CID_13660,36,Male,Rural,Single,Post-Graduate,88500.0,0,NA
+CID_13203,62,Female,Suburban,Single,Graduate,52000.0,1,24
+CID_11754,49,Female,Suburban,Single,High School,10500.0,0,NA
+CID_5202,70,Female,Rural,Married,High School,18500.0,1,11
+CID_11862,74,Female,Suburban,Divorced,Graduate,35000.0,0,NA
+CID_10642,61,Female,Rural,Married,Graduate,60000.0,1,24
+CID_10952,18,Male,Rural,Single,Graduate,6000.0,0,NA
+CID_10532,36,Female,Rural,Married,Post-Graduate,38000.0,0,NA
+CID_14683,53,Female,Suburban,Married,Graduate,31500.0,1,11
+CID_10800,25,Female,Rural,Married,Post-Graduate,16000.0,1,17
+CID_12928,22,Female,Urban,Divorced,High School,13000.0,0,NA
+CID_8630,76,Female,Suburban,Married,Graduate,23500.0,1,48
+CID_14521,49,Male,Suburban,Married,Graduate,77500.0,0,NA
+CID_5688,53,Male,Suburban,Married,Graduate,51500.0,1,49
+CID_10132,70,Female,Suburban,Civil partnered,Graduate,45500.0,0,NA
+CID_8090,26,Male,Urban,Widowed,High School,88500.0,1,1
+CID_8078,37,Female,Suburban,Married,NA,17500.0,0,NA
+CID_7788,65,Male,Urban,Married,Graduate,82000.0,1,6
+CID_7279,42,Male,Suburban,Married,Post-Graduate,66500.0,0,NA
+CID_9729,58,Female,Suburban,Divorced,High School,44500.0,0,NA
+CID_13263,35,Male,Urban,Married,Graduate,49500.0,0,NA
+CID_8926,72,Male,Suburban,Widowed,High School,41000.0,0,NA
+CID_9583,44,Female,Urban,Married,High School,36500.0,1,32
+CID_8765,32,Female,Urban,Divorced,Graduate,54000.0,0,NA
+CID_5907,23,Female,Rural,Married,Graduate,58000.0,0,NA
+CID_5556,46,Male,Suburban,Divorced,Graduate,35000.0,0,NA
+CID_9702,70,Male,Rural,Civil partnered,Graduate,48000.0,1,20
+CID_11027,60,Male,Rural,Civil partnered,NA,38000.0,0,NA
+CID_5980,32,Female,Suburban,Married,Graduate,86500.0,1,8
+CID_7728,65,Male,Suburban,Married,Graduate,66500.0,1,21
+CID_10968,63,Female,Suburban,Single,High School,43500.0,0,NA
+CID_9125,50,Male,Suburban,Single,High School,71000.0,0,NA
+CID_7521,47,Male,Urban,Single,Graduate,50500.0,0,NA
+CID_9765,37,Male,Rural,Married,Graduate,69000.0,1,28
+CID_11180,53,Female,Urban,Divorced,High School,37500.0,0,NA
+CID_5100,52,Male,Rural,Married,Graduate,60500.0,1,19
+CID_12111,73,Female,Urban,Married,Graduate,85000.0,1,4
+CID_11559,46,Male,Urban,Civil partnered,NA,59500.0,1,3
+CID_14609,75,Female,Rural,Single,Graduate,52500.0,0,NA
+CID_8221,52,Female,Urban,Divorced,Graduate,75500.0,0,NA
+CID_7359,59,Male,Suburban,Civil partnered,Post-Graduate,81000.0,1,11
+CID_6646,54,Female,Rural,Married,Graduate,62500.0,0,NA
+CID_13736,42,Male,Rural,Single,Graduate,24000.0,1,23
+CID_8281,69,Female,Suburban,Divorced,Graduate,30500.0,1,19
+CID_7690,22,Female,Urban,Widowed,Graduate,85000.0,0,NA
+CID_8921,46,Male,Suburban,Married,High School,54500.0,0,NA
+CID_6639,18,Female,Rural,Divorced,Graduate,69000.0,1,6
+CID_10579,64,Male,Urban,Married,Post-Graduate,11500.0,0,NA
+CID_8583,27,Male,Suburban,Married,High School,24000.0,0,NA
+CID_8781,43,Female,Urban,Married,Graduate,53500.0,0,NA
+CID_12322,75,Male,Suburban,Married,Post-Graduate,58000.0,1,29
+CID_7264,49,Male,Rural,Single,High School,69000.0,1,9
+CID_11387,57,Male,Urban,Married,Graduate,71500.0,0,NA
+CID_5868,63,Male,Urban,Married,Graduate,88500.0,0,NA
+CID_7877,61,Female,Suburban,Single,High School,84000.0,1,19
+CID_10079,74,Male,Suburban,Married,Post-Graduate,6000.0,0,NA
+CID_10962,66,Female,Rural,Widowed,Post-Graduate,44000.0,0,NA
+CID_7910,59,Female,Suburban,Married,High School,16500.0,1,2
+CID_14261,45,Male,Suburban,Married,High School,7000.0,1,12
+CID_12330,56,Female,Suburban,Widowed,Graduate,38000.0,0,NA
+CID_9339,64,Female,Suburban,Married,High School,40000.0,1,4
+CID_9885,57,Female,Rural,Divorced,Graduate,51500.0,1,23
+CID_8691,64,Female,Suburban,Divorced,High School,7500.0,0,NA
+CID_12568,66,Female,Rural,Married,High School,41000.0,1,20
+CID_8635,46,Male,Suburban,Married,Post-Graduate,14000.0,1,6
+CID_9979,32,Female,Urban,Married,Graduate,25000.0,1,13
+CID_14296,75,Female,Suburban,Married,High School,74500.0,1,5
+CID_10180,37,Female,Suburban,Single,Graduate,70000.0,0,NA
+CID_6593,29,Male,Suburban,Single,High School,38000.0,0,NA
+CID_7985,36,Female,Suburban,Married,Post-Graduate,25000.0,0,NA
+CID_10660,47,Female,Rural,Divorced,Graduate,24500.0,0,NA
+CID_13897,28,Male,Suburban,Single,Graduate,73500.0,0,NA
+CID_12016,19,Female,Rural,Married,Post-Graduate,23500.0,1,17
+CID_7024,44,Female,Suburban,Married,Graduate,35500.0,1,35
+CID_8432,47,Female,Suburban,Married,High School,59500.0,0,NA
+CID_12488,60,Male,Suburban,Widowed,Graduate,46500.0,0,NA
+CID_5375,72,Male,Rural,Single,Graduate,74500.0,1,0
+CID_14660,33,Female,Urban,Civil partnered,Graduate,72500.0,1,13
+CID_14625,44,Male,Suburban,Civil partnered,High School,69000.0,1,10
+CID_7066,70,Male,Suburban,Married,High School,81000.0,0,NA
+CID_6549,51,Male,Urban,Divorced,Graduate,89500.0,0,NA
+CID_6118,55,Female,Suburban,Divorced,Graduate,32000.0,0,NA
+CID_14140,58,Female,Suburban,Divorced,Post-Graduate,51500.0,0,NA
+CID_6308,66,Male,Suburban,Divorced,High School,88500.0,1,16
+CID_8199,55,Female,Suburban,Divorced,High School,59000.0,1,16
+CID_12584,69,Male,Suburban,Divorced,Graduate,36000.0,1,9
+CID_8716,30,Female,Suburban,Divorced,NA,67500.0,0,NA
+CID_7186,18,Female,Urban,Single,Graduate,61500.0,0,NA
+CID_12003,61,Female,Rural,Single,Post-Graduate,36000.0,1,0
+CID_11786,53,Male,Suburban,Civil partnered,Post-Graduate,53500.0,0,NA
+CID_7571,23,Female,Urban,Married,High School,12000.0,0,NA
+CID_7363,32,Male,Suburban,Married,Post-Graduate,55000.0,1,7
+CID_9055,43,Female,Urban,Married,High School,83500.0,1,20
+CID_9225,53,Male,Suburban,Single,Graduate,26000.0,1,22
+CID_12394,49,Male,Suburban,Widowed,Graduate,20500.0,0,NA
+CID_12166,52,Female,Suburban,Divorced,Graduate,10000.0,1,5
+CID_13307,69,Female,Suburban,Married,Post-Graduate,66000.0,1,31
+CID_8026,54,Male,Rural,Married,Graduate,22500.0,0,NA
+CID_11141,34,Male,Suburban,Divorced,High School,76000.0,1,14
+CID_11545,44,Female,Suburban,Divorced,Graduate,40500.0,0,NA
+CID_6653,65,Female,Urban,Married,Post-Graduate,49500.0,1,3
+CID_5039,19,Male,Rural,Divorced,Graduate,42500.0,1,26
+CID_13002,19,Male,Rural,Divorced,High School,53500.0,1,6
+CID_10024,23,Male,Suburban,Married,Post-Graduate,83500.0,1,12
+CID_14262,35,Female,Rural,Civil partnered,High School,75500.0,1,22
+CID_13013,71,Female,Suburban,Married,High School,41500.0,0,NA
+CID_10571,56,Male,Suburban,Married,Graduate,33000.0,1,3
+CID_10336,65,Male,Rural,Married,Graduate,67000.0,1,12
+CID_12197,44,Female,Suburban,Civil partnered,High School,60500.0,1,13
+CID_14007,71,Female,Rural,Civil partnered,Post-Graduate,71500.0,1,39
+CID_14944,34,Male,Suburban,Single,Graduate,32000.0,1,15
+CID_9621,75,Female,Suburban,Divorced,High School,70000.0,1,3
+CID_7234,42,Female,Suburban,Married,Post-Graduate,79500.0,0,NA
+CID_14772,69,Male,Suburban,Married,Graduate,7500.0,1,20
+CID_12084,36,Male,Rural,Single,High School,46500.0,0,NA
+CID_6749,65,Male,Suburban,Single,Graduate,61000.0,0,NA
+CID_9981,69,Female,Rural,Single,Graduate,23500.0,0,NA
+CID_7206,38,Male,Urban,Married,Graduate,70500.0,1,0
+CID_9418,67,Male,Rural,Married,Post-Graduate,6500.0,0,NA
+CID_10097,51,Male,Rural,Civil partnered,Graduate,18000.0,0,NA
+CID_6501,74,Female,Suburban,Single,High School,76500.0,0,NA
+CID_10991,21,Female,Rural,Married,Post-Graduate,28000.0,1,4
+CID_6874,28,Female,Suburban,Divorced,High School,39500.0,1,0
+CID_14004,26,Male,Urban,Married,Graduate,54500.0,1,13
+CID_8712,71,Female,Rural,Married,Graduate,52000.0,1,12
+CID_8044,51,Female,Rural,Married,High School,14000.0,0,NA
+CID_6167,56,Female,Suburban,Divorced,Graduate,67000.0,0,NA
+CID_12566,52,Female,Urban,Married,Graduate,14000.0,0,NA
+CID_13589,21,Male,Urban,Civil partnered,Post-Graduate,69000.0,1,6
+CID_10235,57,Female,Suburban,Married,Graduate,59000.0,0,NA
+CID_12120,55,Male,Suburban,Married,Graduate,62500.0,0,NA
+CID_14041,35,Female,Suburban,Divorced,High School,25500.0,0,NA
+CID_6459,44,Male,Suburban,Married,NA,13000.0,1,26
+CID_12909,66,Male,Suburban,Divorced,Graduate,38500.0,0,NA
+CID_9615,54,Female,Suburban,Divorced,Post-Graduate,23000.0,0,NA
+CID_10864,51,Male,Suburban,Civil partnered,Graduate,36000.0,1,6
+CID_14136,73,Female,Urban,Married,Graduate,25000.0,1,7
+CID_5352,35,Male,Rural,Married,Graduate,75500.0,0,NA
+CID_9579,42,Female,Suburban,Civil partnered,Graduate,19500.0,0,NA
+CID_14066,60,Female,Rural,Single,Post-Graduate,46000.0,0,NA
+CID_9077,56,Female,Suburban,Single,Post-Graduate,63500.0,0,NA
+CID_5219,62,Female,Urban,Single,High School,17500.0,1,0
+CID_5774,36,Female,Suburban,Widowed,Graduate,11500.0,0,NA
+CID_7585,41,Female,Rural,Widowed,Post-Graduate,67000.0,1,14
+CID_7995,61,Male,Suburban,Divorced,Post-Graduate,40500.0,0,NA
+CID_5095,25,Male,Urban,Divorced,Graduate,43500.0,0,NA
+CID_11224,22,Female,Urban,Divorced,Graduate,28500.0,0,NA
+CID_12074,72,Female,Rural,Married,Graduate,12000.0,1,32
+CID_12077,56,Female,Suburban,Married,Graduate,41000.0,1,12
+CID_6313,65,Male,Suburban,Divorced,High School,69500.0,0,NA
+CID_7559,75,Male,Urban,Married,Graduate,87500.0,0,NA
+CID_14938,24,Male,Suburban,Married,NA,23000.0,0,NA
+CID_9232,19,Male,Rural,Married,High School,58500.0,1,25
+CID_12526,19,Male,Suburban,Married,Graduate,84000.0,0,NA
+CID_6552,29,Female,Suburban,Married,NA,25000.0,1,8
+CID_10933,66,Male,Suburban,Divorced,Graduate,76500.0,0,NA
+CID_13436,53,Male,Rural,Single,Graduate,76500.0,0,NA
+CID_11695,64,Female,Rural,Single,Graduate,7500.0,1,4
+CID_11004,33,Female,Rural,Married,High School,82500.0,1,8
+CID_9009,35,Male,Suburban,Married,Graduate,78000.0,0,NA
+CID_11210,54,Female,Urban,Civil partnered,Post-Graduate,55500.0,0,NA
+CID_14167,75,Female,Rural,Civil partnered,Graduate,25500.0,1,7
+CID_6827,48,Female,Urban,Divorced,Graduate,12000.0,1,14
+CID_9910,29,Male,Urban,Widowed,Graduate,63000.0,0,NA
+CID_12450,34,Male,Suburban,Single,Graduate,52500.0,1,11
+CID_8790,72,Female,Rural,Widowed,High School,82000.0,0,NA
+CID_7253,21,Male,Urban,Single,Post-Graduate,59500.0,0,NA
+CID_14487,35,Female,Rural,Married,Post-Graduate,63500.0,0,NA
+CID_11599,20,Female,Rural,Married,High School,72000.0,1,19
+CID_13719,32,Female,Urban,Widowed,High School,11500.0,0,NA
+CID_5740,44,Male,Urban,Civil partnered,High School,36500.0,1,28
+CID_13103,45,Female,Suburban,Single,High School,43000.0,1,17
+CID_7550,50,Male,Urban,Single,Post-Graduate,56500.0,0,NA
+CID_7632,26,Male,Suburban,Civil partnered,Graduate,53000.0,0,NA
+CID_9807,66,Female,Urban,Single,Graduate,69500.0,1,6
+CID_11415,43,Male,Rural,Civil partnered,Graduate,36500.0,1,22
+CID_12720,76,Female,Rural,Married,High School,71500.0,0,NA
+CID_12415,43,Female,Suburban,Married,Graduate,36000.0,0,NA
+CID_14279,19,Female,Urban,Married,High School,79500.0,0,NA
+CID_6451,64,Male,Suburban,Divorced,Post-Graduate,69500.0,1,24
+CID_14471,41,Female,Suburban,Married,Graduate,18500.0,0,NA
+CID_8784,20,Male,Rural,Married,Graduate,29000.0,0,NA
+CID_10947,38,Male,Suburban,Married,Post-Graduate,85500.0,1,3
+CID_8542,62,Female,Urban,Married,High School,52500.0,1,30
+CID_11902,75,Female,Suburban,Single,Graduate,51500.0,0,NA
+CID_7345,24,Female,Urban,Civil partnered,Graduate,50500.0,1,18
+CID_13049,35,Male,Rural,Married,High School,62000.0,1,13
+CID_7948,22,Female,Suburban,Married,High School,28000.0,0,NA
+CID_6723,60,Female,Urban,Married,Graduate,33000.0,1,1
+CID_12701,36,Male,Rural,Widowed,Post-Graduate,21500.0,1,8
+CID_11054,26,Male,Urban,Married,Graduate,31500.0,0,NA
+CID_12411,19,Female,Suburban,Widowed,Graduate,59000.0,0,NA
+CID_9374,24,Female,Suburban,Married,NA,71000.0,0,NA
+CID_8154,19,Male,Rural,Divorced,Graduate,10500.0,0,NA
+CID_8702,31,Female,Suburban,Married,NA,58500.0,0,NA
+CID_6193,29,Male,Urban,Single,Graduate,49000.0,1,27
+CID_9854,46,Male,Suburban,Married,Graduate,28500.0,1,22
+CID_10183,74,Female,Suburban,Single,Graduate,82500.0,0,NA
+CID_12298,50,Male,Rural,Civil partnered,Graduate,52500.0,0,NA
+CID_9890,70,Male,Rural,Single,High School,89500.0,0,NA
+CID_7252,21,Male,Urban,Divorced,NA,7500.0,1,17
+CID_8772,38,Female,Rural,Married,High School,65500.0,0,NA
+CID_9306,72,Male,Urban,Divorced,High School,74000.0,1,21
+CID_7927,47,Female,Suburban,Divorced,Graduate,49500.0,1,26
+CID_10709,65,Male,Suburban,Single,Graduate,73500.0,1,10
+CID_5357,70,Female,Suburban,Divorced,High School,44500.0,1,9
+CID_11256,41,Female,Urban,Married,NA,67000.0,1,32
+CID_14027,51,Female,Suburban,Married,Graduate,84000.0,0,NA
+CID_13319,44,Female,Suburban,Married,High School,74500.0,0,NA
+CID_12652,58,Male,Suburban,Married,High School,73000.0,0,NA
+CID_12165,21,Male,Suburban,Divorced,NA,56500.0,0,NA
+CID_13042,47,Female,Suburban,Married,Post-Graduate,61500.0,1,23
+CID_14524,34,Male,Rural,Married,Graduate,40500.0,1,15
+CID_8194,45,Female,Rural,Married,High School,49500.0,1,20
+CID_11914,71,Male,Rural,Widowed,High School,59500.0,0,NA
+CID_10114,71,Male,Urban,Single,Graduate,42000.0,0,NA
+CID_5422,45,Female,Suburban,Married,NA,76500.0,0,NA
+CID_8705,39,Female,Suburban,Married,High School,68000.0,0,NA
+CID_13513,26,Male,Suburban,Married,Post-Graduate,76500.0,0,NA
+CID_13823,26,Female,Suburban,Divorced,Graduate,27500.0,0,NA
+CID_11751,44,Female,Urban,Widowed,Post-Graduate,19000.0,0,NA
+CID_11304,50,Male,Urban,Married,High School,26000.0,1,23
+CID_11285,32,Female,Suburban,Married,Graduate,66000.0,0,NA
+CID_7920,50,Male,Suburban,Divorced,Graduate,36500.0,1,8
+CID_11687,26,Female,Urban,Single,Graduate,5500.0,0,NA
+CID_13052,44,Male,Suburban,Married,High School,73000.0,1,9
+CID_14879,48,Female,Suburban,Divorced,Graduate,11500.0,1,6
+CID_5035,43,Male,Urban,Divorced,Post-Graduate,69500.0,1,0
+CID_5696,32,Male,Rural,Single,Post-Graduate,11000.0,1,9
+CID_13735,29,Male,Rural,Married,Post-Graduate,51000.0,1,1
+CID_8909,21,Female,Suburban,Married,High School,27000.0,0,NA
+CID_6981,57,Female,Suburban,Civil partnered,Graduate,50500.0,0,NA
+CID_9131,30,Female,Urban,Married,Graduate,8000.0,1,8
+CID_12445,65,Female,Urban,Married,Graduate,13500.0,0,NA
+CID_6303,46,Male,Urban,Single,High School,41000.0,0,NA
+CID_12505,73,Male,Rural,Divorced,Graduate,59500.0,1,20
+CID_14038,42,Male,Suburban,Married,Graduate,71000.0,1,5
+CID_11182,18,Female,Suburban,Civil partnered,Graduate,22000.0,0,NA
+CID_14916,21,Female,Suburban,Married,Graduate,19000.0,1,7
+CID_11297,72,Male,Suburban,Married,High School,32500.0,1,21
+CID_5156,58,Male,Rural,Married,Graduate,68500.0,1,17
+CID_7508,31,Male,Suburban,Single,Post-Graduate,7000.0,1,12
+CID_8545,61,Male,Rural,Married,Post-Graduate,28500.0,0,NA
+CID_5838,58,Male,Urban,Married,High School,27500.0,0,NA
+CID_11587,45,Female,Suburban,Married,Post-Graduate,10500.0,1,42
+CID_7351,31,Male,Suburban,Divorced,Graduate,89000.0,0,NA
+CID_9071,65,Male,Suburban,Divorced,Post-Graduate,35000.0,0,NA
+CID_11760,69,Male,Urban,Civil partnered,Post-Graduate,89500.0,0,NA
+CID_12061,61,Female,Urban,Married,Post-Graduate,30000.0,0,NA
+CID_10395,33,Female,Rural,Civil partnered,High School,89000.0,1,4
+CID_10148,75,Male,Suburban,Single,Graduate,11000.0,1,28
+CID_13904,64,Female,Urban,Single,Graduate,13000.0,1,10
+CID_5285,68,Male,Urban,Married,High School,7500.0,0,NA
+CID_11185,34,Female,Suburban,Divorced,NA,72500.0,1,17
+CID_6429,21,Female,Rural,Divorced,High School,54000.0,1,15
+CID_8887,53,Male,Suburban,Single,NA,17500.0,1,35
+CID_10821,48,Female,Suburban,Civil partnered,Post-Graduate,12500.0,1,25
+CID_11701,59,Female,Suburban,Married,Graduate,12000.0,0,NA
+CID_14043,27,Male,Rural,Married,Post-Graduate,84500.0,0,NA
+CID_9747,44,Male,Suburban,Single,High School,87000.0,0,NA
+CID_6284,40,Male,Suburban,Married,High School,50500.0,1,2
+CID_10068,21,Female,Rural,Divorced,Graduate,58000.0,1,2
+CID_13407,32,Female,Urban,Divorced,High School,7500.0,1,8
+CID_13086,61,Female,Urban,Married,Post-Graduate,71500.0,1,7
+CID_10067,51,Male,Suburban,Single,High School,11000.0,1,29
+CID_10899,29,Male,Rural,Civil partnered,Graduate,59500.0,0,NA
+CID_10291,27,Female,Urban,Married,Graduate,47500.0,0,NA
+CID_6955,42,Female,Suburban,Civil partnered,Graduate,33500.0,0,NA
+CID_10931,58,Male,Suburban,Married,NA,77000.0,1,18
+CID_6503,59,Female,Suburban,Divorced,NA,20500.0,1,7
+CID_5272,63,Female,Suburban,Civil partnered,Post-Graduate,24000.0,1,5
+CID_14029,19,Female,Urban,Married,Graduate,58000.0,0,NA
+CID_12130,24,Female,Urban,Divorced,High School,25000.0,1,0
+CID_7309,50,Female,Rural,Married,Graduate,53000.0,0,NA
+CID_5464,51,Male,Urban,Married,NA,87000.0,1,6
+CID_7950,49,Female,Urban,Married,High School,28500.0,1,13
+CID_11552,72,Female,Suburban,Divorced,Graduate,14500.0,1,2
+CID_12031,34,Male,Suburban,Single,Graduate,78500.0,0,NA
+CID_7614,28,Female,Suburban,Widowed,Graduate,16500.0,0,NA
+CID_12187,36,Male,Suburban,Single,High School,14000.0,0,NA
+CID_5749,23,Female,Urban,Married,Graduate,76000.0,1,13
+CID_9292,45,Male,Suburban,Married,Graduate,70500.0,0,NA
+CID_13512,24,Female,Rural,Single,High School,46000.0,0,NA
+CID_6969,62,Female,Urban,Married,Post-Graduate,28500.0,0,NA
+CID_11956,41,Female,Urban,Widowed,Graduate,49000.0,0,NA
+CID_13246,74,Male,Urban,Single,High School,21000.0,1,7
+CID_5304,24,Male,Suburban,Single,Graduate,37000.0,1,19
+CID_12827,48,Male,Urban,Married,Graduate,6000.0,0,NA
+CID_7085,67,Female,Suburban,Married,Post-Graduate,52000.0,1,13
+CID_6714,73,Female,Suburban,Divorced,NA,7500.0,1,1
+CID_11385,18,Male,Suburban,Divorced,Graduate,35500.0,1,12
+CID_13517,59,Female,Suburban,Married,Graduate,52500.0,1,12
+CID_12676,48,Male,Rural,Divorced,Post-Graduate,20500.0,1,29
+CID_5752,38,Female,Suburban,Divorced,Graduate,12500.0,0,NA
+CID_7988,33,Female,Suburban,Married,Post-Graduate,61000.0,0,NA
+CID_5959,26,Male,Suburban,Civil partnered,Graduate,73000.0,1,11
+CID_9647,70,Male,Rural,Divorced,Graduate,30000.0,1,15
+CID_10698,68,Male,Rural,Married,Graduate,74000.0,1,19
+CID_8474,61,Female,Suburban,Divorced,Graduate,61500.0,1,53
+CID_10563,38,Female,Suburban,Divorced,Graduate,23500.0,0,NA
+CID_7000,48,Male,Urban,Single,Graduate,25000.0,1,24
+CID_13385,50,Female,Suburban,Divorced,Graduate,19000.0,1,19
+CID_13928,74,Male,Rural,Divorced,Graduate,66500.0,1,24
+CID_12398,46,Male,Suburban,Divorced,High School,70000.0,0,NA
+CID_14150,52,Male,Suburban,Single,High School,16500.0,0,NA
+CID_14496,23,Female,Suburban,Married,Graduate,53500.0,1,8
+CID_10884,49,Male,Suburban,Married,NA,36000.0,1,23
+CID_7426,21,Male,Suburban,Divorced,Post-Graduate,20000.0,0,NA
+CID_10753,51,Male,Suburban,Married,Graduate,34500.0,1,18
+CID_10064,63,Male,Suburban,Single,NA,67000.0,0,NA
+CID_14497,71,Female,Rural,Married,High School,19000.0,0,NA
+CID_8106,51,Female,Suburban,Married,High School,64000.0,1,22
+CID_5525,75,Male,Rural,Married,Graduate,10000.0,0,NA
+CID_6720,71,Female,Suburban,Married,Graduate,87500.0,0,NA
+CID_8302,71,Male,Suburban,Single,Graduate,67000.0,1,2
+CID_9516,35,Male,Rural,Single,Graduate,53500.0,0,NA
+CID_14982,53,Female,Suburban,Divorced,Graduate,9500.0,1,25
+CID_5150,41,Male,Rural,Divorced,Graduate,35500.0,1,25
+CID_8915,62,Female,Urban,Married,Graduate,70000.0,0,NA
+CID_5870,56,Male,Urban,Divorced,High School,20000.0,1,23
+CID_9127,24,Female,Suburban,Civil partnered,High School,46500.0,0,NA
+CID_8033,48,Male,Rural,Civil partnered,High School,52500.0,0,NA
+CID_13364,63,Female,Urban,Married,Graduate,79500.0,1,15
+CID_13840,18,Male,Urban,Married,Graduate,66000.0,0,NA
+CID_6870,75,Male,Urban,Single,Graduate,47000.0,0,NA
+CID_8067,44,Female,Urban,Married,Graduate,74500.0,1,3
+CID_7050,69,Female,Urban,Civil partnered,Graduate,25500.0,0,NA
+CID_13470,68,Female,Suburban,Widowed,Post-Graduate,55500.0,0,NA
+CID_5753,60,Male,Rural,Married,NA,58500.0,0,NA
+CID_6565,25,Male,Urban,Married,NA,35000.0,1,26
+CID_14844,57,Male,Rural,Married,High School,23000.0,0,NA
+CID_13846,66,Female,Urban,Single,High School,70000.0,0,NA
+CID_12489,54,Female,Rural,Married,Graduate,80500.0,1,34
+CID_10569,44,Female,Suburban,Married,NA,87500.0,1,11
+CID_6883,57,Female,Suburban,Civil partnered,High School,15000.0,0,NA
+CID_5050,53,Female,Urban,Single,Graduate,7500.0,1,23
+CID_5135,41,Male,Suburban,Married,Post-Graduate,25000.0,1,15
+CID_5966,73,Male,Suburban,Married,Graduate,54500.0,0,NA
+CID_6862,74,Female,Rural,Married,Post-Graduate,34000.0,0,NA
+CID_12162,56,Male,Urban,Single,Graduate,29000.0,0,NA
+CID_13802,39,Female,Urban,Divorced,High School,16500.0,1,2
+CID_10101,26,Female,Urban,Single,Post-Graduate,32500.0,0,NA
+CID_10995,31,Male,Suburban,Married,Graduate,62500.0,1,31
+CID_13900,27,Female,Suburban,Married,High School,54000.0,0,NA
+CID_5011,35,Female,Rural,Married,High School,27000.0,0,NA
+CID_9391,77,Female,Rural,Single,Post-Graduate,21000.0,0,NA
+CID_8974,50,Female,Rural,Married,Post-Graduate,26000.0,0,NA
+CID_12115,39,Female,Suburban,Single,Graduate,77000.0,0,NA
+CID_10979,47,Male,Suburban,Single,Graduate,25000.0,1,0
+CID_10996,24,Male,Suburban,Single,Graduate,14500.0,0,NA
+CID_10003,20,Female,Rural,Civil partnered,Post-Graduate,67000.0,0,NA
+CID_5509,54,Female,Rural,Married,High School,49000.0,1,7
+CID_11220,36,Female,Urban,Single,Post-Graduate,37500.0,1,30
+CID_12300,35,Male,Suburban,Married,High School,88500.0,1,3
+CID_6542,54,Female,Suburban,Married,Graduate,13000.0,1,46
+CID_9969,35,Male,Urban,Single,Graduate,35500.0,1,1
+CID_12262,45,Male,Urban,Divorced,NA,48000.0,0,NA
+CID_10317,46,Female,Urban,Single,NA,9000.0,1,9
+CID_5138,69,Male,Suburban,Divorced,Graduate,58500.0,0,NA
+CID_13754,67,Male,Suburban,Single,Graduate,65500.0,1,0
+CID_8501,30,Female,Rural,Single,High School,45000.0,0,NA
+CID_10297,69,Female,Suburban,Single,High School,84000.0,1,26
+CID_6347,57,Male,Urban,Single,High School,58000.0,1,33
+CID_9811,20,Male,Suburban,Single,Graduate,69000.0,0,NA
+CID_11909,71,Male,Suburban,Widowed,High School,72500.0,0,NA
+CID_13708,19,Male,Rural,Single,Post-Graduate,57000.0,1,20
+CID_10882,52,Male,Rural,Civil partnered,Graduate,73000.0,0,NA
+CID_9200,63,Female,Rural,Divorced,Graduate,60500.0,0,NA
+CID_8848,34,Female,Suburban,Civil partnered,Post-Graduate,82000.0,0,NA
+CID_13180,19,Female,Urban,Married,Graduate,82500.0,0,NA
+CID_5864,65,Female,Rural,Divorced,Graduate,58000.0,1,22
+CID_6647,35,Male,Rural,Divorced,Post-Graduate,37000.0,1,25
+CID_14500,48,Female,Rural,Single,High School,68000.0,1,19
+CID_6275,71,Male,Urban,Married,Post-Graduate,79000.0,0,NA
+CID_5608,71,Male,Urban,Single,High School,36500.0,0,NA
+CID_12825,68,Male,Suburban,Single,Post-Graduate,79500.0,0,NA
+CID_14620,26,Male,Urban,Married,Graduate,34500.0,1,5
+CID_13420,24,Male,Urban,Widowed,Graduate,53000.0,1,8
+CID_5117,60,Female,Suburban,Married,High School,49500.0,0,NA
+CID_10145,60,Female,Suburban,Married,High School,88000.0,1,17
+CID_13148,46,Male,Rural,Married,NA,63000.0,0,NA
+CID_9337,19,Female,Rural,Married,High School,80500.0,1,29
+CID_10236,36,Female,Suburban,Divorced,High School,48000.0,0,NA
+CID_12495,22,Female,Suburban,Married,Post-Graduate,29000.0,1,10
+CID_8612,26,Male,Rural,Divorced,Graduate,68500.0,0,NA
+CID_9580,31,Female,Urban,Single,Graduate,86000.0,1,7
+CID_12538,27,Female,Suburban,Civil partnered,Graduate,12000.0,0,NA
+CID_11245,19,Female,Suburban,Married,High School,81000.0,0,NA
+CID_7442,38,Female,Suburban,Married,Post-Graduate,32500.0,1,33
+CID_9050,69,Female,Urban,Divorced,NA,23500.0,1,18
+CID_5372,43,Male,Urban,Divorced,Post-Graduate,87500.0,0,NA
+CID_11310,70,Male,Urban,Single,Post-Graduate,75500.0,0,NA
+CID_7533,50,Female,Urban,Divorced,Graduate,25000.0,0,NA
+CID_5976,29,Male,Urban,Divorced,Graduate,18500.0,0,NA
+CID_7534,75,Male,Urban,Married,High School,74000.0,1,12
+CID_13899,61,Female,Urban,Single,Post-Graduate,25500.0,1,4
+CID_7113,25,Female,Urban,Married,Graduate,29000.0,0,NA
+CID_14590,57,Female,Rural,Married,NA,56000.0,1,3
+CID_8532,23,Male,Rural,Civil partnered,Graduate,10000.0,1,17
+CID_13727,74,Male,Rural,Divorced,Graduate,51000.0,1,10
+CID_8645,24,Female,Suburban,Married,Graduate,17000.0,0,NA
+CID_13253,43,Male,Suburban,Married,Graduate,41000.0,0,NA
+CID_6431,65,Female,Urban,Divorced,Post-Graduate,32500.0,1,37
+CID_12472,36,Male,Suburban,Civil partnered,Post-Graduate,75000.0,1,23
+CID_7833,52,Female,Urban,Married,Graduate,66500.0,0,NA
+CID_5889,65,Female,Suburban,Married,Graduate,62500.0,1,11
+CID_11802,63,Female,Suburban,Married,Graduate,85500.0,1,11
+CID_12586,47,Female,Rural,Married,Graduate,29500.0,1,19
+CID_8906,69,Male,Urban,Married,Graduate,37000.0,1,25
+CID_11287,71,Male,Suburban,Married,High School,79500.0,1,15
+CID_10474,19,Female,Suburban,Married,Graduate,21000.0,0,NA
+CID_8004,48,Female,Suburban,Single,High School,7000.0,0,NA
+CID_8815,24,Male,Suburban,Married,High School,48000.0,0,NA
+CID_12899,69,Female,Rural,Married,Graduate,55000.0,0,NA
+CID_12462,65,Male,Suburban,Single,Post-Graduate,52500.0,0,NA
+CID_7071,19,Male,Rural,Married,High School,42000.0,0,NA
+CID_14940,22,Male,Urban,Married,Graduate,53000.0,1,31
+CID_13649,23,Male,Suburban,Divorced,High School,43500.0,1,3
+CID_12241,24,Female,Suburban,Divorced,High School,35000.0,0,NA
+CID_8548,77,Male,Suburban,Married,Post-Graduate,87500.0,1,14
+CID_10283,45,Female,Urban,Married,Graduate,27000.0,0,NA
+CID_9490,51,Male,Suburban,Divorced,NA,82500.0,1,11
+CID_9683,64,Male,Suburban,Married,High School,85000.0,0,NA
+CID_11535,75,Male,Suburban,Married,NA,73500.0,0,NA
+CID_12090,30,Female,Suburban,Married,Graduate,32000.0,0,NA
+CID_9980,52,Male,Suburban,Married,High School,32500.0,0,NA
+CID_14762,64,Female,Suburban,Divorced,Post-Graduate,25500.0,1,40
+CID_5232,61,Female,Suburban,Divorced,Graduate,21500.0,1,34
+CID_9970,45,Male,Urban,Single,Graduate,81500.0,1,18
+CID_8203,27,Male,Suburban,Married,Post-Graduate,36000.0,0,NA
+CID_6706,65,Male,Suburban,Divorced,Graduate,24000.0,0,NA
+CID_11186,48,Male,Suburban,Married,NA,8500.0,1,17
+CID_5484,40,Male,Rural,Married,High School,40500.0,0,NA
+CID_12215,36,Female,Suburban,Married,High School,85500.0,0,NA
+CID_13948,33,Male,Suburban,Divorced,Graduate,27000.0,1,24
+CID_13168,53,Female,Suburban,Married,NA,77500.0,0,NA
+CID_12864,53,Male,Rural,Divorced,Graduate,87500.0,0,NA
+CID_12693,33,Male,Suburban,Divorced,Graduate,25500.0,0,NA
+CID_14216,25,Male,Suburban,Married,Graduate,7500.0,1,17
+CID_8079,52,Female,Suburban,Married,Graduate,70500.0,1,35
+CID_13827,28,Female,Urban,Single,High School,69500.0,1,2
+CID_10812,47,Male,Urban,Divorced,Graduate,32500.0,1,4
+CID_11969,58,Female,Suburban,Married,Post-Graduate,37000.0,0,NA
+CID_14079,35,Female,Rural,Married,Post-Graduate,89000.0,0,NA
+CID_7067,59,Female,Suburban,Divorced,High School,7000.0,0,NA
+CID_9781,46,Female,Rural,Married,High School,82000.0,0,NA
+CID_13424,42,Male,Suburban,Divorced,Graduate,86500.0,1,23
+CID_8569,60,Female,Urban,Single,Post-Graduate,46500.0,0,NA
+CID_10186,24,Male,Urban,Widowed,Graduate,58500.0,0,NA
+CID_9773,56,Female,Urban,Married,Graduate,54000.0,0,NA
+CID_6126,50,Male,Rural,Single,Graduate,77500.0,1,26
+CID_13221,67,Female,Rural,Married,Post-Graduate,10000.0,0,NA
+CID_13431,31,Male,Rural,Divorced,Graduate,40500.0,0,NA
+CID_5880,63,Male,Urban,Divorced,High School,71000.0,1,17
+CID_13875,41,Female,Rural,Married,High School,61000.0,1,15
+CID_12145,20,Male,Urban,Married,High School,35500.0,1,12
+CID_13819,65,Female,Rural,Married,Graduate,5500.0,1,5
+CID_8257,52,Female,Urban,Married,High School,79000.0,1,2
+CID_9745,77,Male,Suburban,Single,Graduate,53500.0,1,36
+CID_10605,35,Female,Suburban,Married,Post-Graduate,6000.0,1,25
+CID_13993,56,Female,Urban,Single,Graduate,15000.0,0,NA
+CID_9864,40,Female,Suburban,Divorced,Graduate,58500.0,0,NA
+CID_5559,19,Female,Suburban,Divorced,High School,64000.0,0,NA
+CID_10784,42,Female,Urban,Married,Post-Graduate,6000.0,0,NA
+CID_7947,67,Male,Suburban,Divorced,Graduate,57000.0,1,35
+CID_6728,30,Male,Suburban,Married,Post-Graduate,70500.0,0,NA
+CID_13608,33,Male,Suburban,Married,Post-Graduate,18500.0,1,25
+CID_5173,49,Female,Urban,Married,Post-Graduate,11000.0,1,24
+CID_7097,30,Male,Rural,Single,NA,6500.0,1,14
+CID_12418,45,Female,Rural,Civil partnered,Graduate,42500.0,0,NA
+CID_9531,74,Female,Rural,Civil partnered,High School,16000.0,0,NA
+CID_10712,67,Female,Suburban,Married,Graduate,9500.0,0,NA
+CID_14460,48,Female,Rural,Married,Post-Graduate,50500.0,0,NA
+CID_5757,47,Female,Suburban,Married,Graduate,12500.0,0,NA
+CID_13372,56,Male,Suburban,Married,Graduate,87000.0,1,54
+CID_8162,47,Male,Rural,Married,Graduate,39000.0,1,1
+CID_9188,75,Female,Suburban,Married,Post-Graduate,47500.0,0,NA
+CID_13333,39,Male,Rural,Married,High School,9000.0,0,NA
+CID_11133,39,Male,Urban,Divorced,High School,59500.0,0,NA
+CID_6995,32,Female,Rural,Married,Graduate,66500.0,1,28
+CID_13920,62,Female,Urban,Married,Graduate,22500.0,0,NA
+CID_10779,62,Male,Rural,Married,Graduate,25500.0,0,NA
+CID_14532,44,Male,Rural,Divorced,Graduate,43500.0,0,NA
+CID_8077,39,Female,Rural,Single,Graduate,50500.0,1,27
+CID_8819,53,Female,Suburban,Married,Graduate,31500.0,1,9
+CID_13679,61,Male,Rural,Single,Graduate,6000.0,0,NA
+CID_12636,73,Male,Suburban,Married,Graduate,68000.0,1,8
+CID_5985,46,Female,Suburban,Divorced,NA,45500.0,1,23
+CID_6213,76,Male,Rural,Married,High School,74000.0,1,15
+CID_5360,57,Female,Suburban,Married,Graduate,54500.0,1,27
+CID_9031,54,Male,Urban,Single,Post-Graduate,64500.0,0,NA
+CID_13914,36,Female,Rural,Single,Post-Graduate,26500.0,0,NA
+CID_8039,38,Male,Urban,Married,Graduate,21500.0,0,NA
+CID_6159,77,Female,Urban,Single,NA,15000.0,0,NA
+CID_8261,52,Male,Rural,Single,Post-Graduate,77500.0,1,33
+CID_14561,34,Female,Suburban,Divorced,Graduate,81000.0,1,34
+CID_7330,35,Female,Suburban,Married,High School,20500.0,0,NA
+CID_9105,64,Male,Urban,Divorced,Graduate,86500.0,1,44
+CID_5650,76,Male,Suburban,Divorced,Graduate,69000.0,1,16
+CID_11396,57,Female,Rural,Single,Graduate,7500.0,0,NA
+CID_13071,45,Male,Rural,Single,High School,51500.0,0,NA
+CID_5827,33,Male,Suburban,Divorced,High School,29500.0,0,NA
+CID_7028,74,Male,Urban,Single,Graduate,20500.0,0,NA
+CID_8391,20,Female,Suburban,Divorced,Graduate,11500.0,1,16
+CID_7547,49,Female,Rural,Single,Graduate,48000.0,1,3
+CID_5567,55,Male,Urban,Married,High School,38500.0,0,NA
+CID_9223,39,Male,Suburban,Single,High School,89000.0,1,9
+CID_12038,54,Female,Suburban,Married,NA,18500.0,1,7
+CID_9537,57,Male,Urban,Married,High School,12000.0,0,NA
+CID_7784,70,Female,Rural,Divorced,NA,12500.0,0,NA
+CID_9840,41,Male,Rural,Married,Graduate,55000.0,0,NA
+CID_13323,57,Female,Rural,Married,Post-Graduate,45000.0,0,NA
+CID_13476,42,Female,Suburban,Single,Graduate,22500.0,1,22
+CID_13237,29,Male,Suburban,Divorced,Graduate,52000.0,0,NA
+CID_5153,57,Female,Rural,Single,Graduate,23000.0,1,15
+CID_6516,28,Male,Suburban,Single,Graduate,7500.0,1,55
+CID_8401,46,Female,Urban,Married,NA,22500.0,0,NA
+CID_9522,76,Male,Rural,Civil partnered,Graduate,45000.0,1,8
+CID_11429,41,Male,Rural,Married,Graduate,63000.0,1,44
+CID_7509,60,Male,Urban,Civil partnered,Graduate,58500.0,0,NA
+CID_11986,76,Male,Suburban,Widowed,Graduate,7000.0,1,22
+CID_6882,38,Male,Suburban,Divorced,High School,49500.0,0,NA
+CID_8832,23,Male,Rural,Married,Graduate,6500.0,0,NA
+CID_11199,58,Female,Suburban,Single,Graduate,74000.0,1,8
+CID_6626,44,Female,Suburban,Widowed,Graduate,75000.0,0,NA
+CID_8513,76,Female,Suburban,Civil partnered,Graduate,32000.0,1,15
+CID_12206,47,Female,Suburban,Married,High School,82000.0,0,NA
+CID_13797,30,Male,Suburban,Single,NA,82000.0,0,NA
+CID_13655,52,Female,Urban,Widowed,Post-Graduate,44000.0,1,22
+CID_9502,31,Female,Urban,Civil partnered,High School,24000.0,1,5
+CID_13563,57,Male,Rural,Single,NA,6500.0,1,21
+CID_14586,51,Female,Suburban,Single,Graduate,72500.0,0,NA
+CID_8278,31,Male,Rural,Married,Graduate,79500.0,0,NA
+CID_5896,73,Female,Suburban,Divorced,Graduate,55500.0,0,NA
+CID_5686,75,Male,Suburban,Married,Graduate,60500.0,0,NA
+CID_14793,45,Female,Suburban,Single,Graduate,9000.0,1,46
+CID_12977,42,Female,Urban,Married,Post-Graduate,14000.0,1,46
+CID_11106,25,Male,Suburban,Single,High School,48000.0,0,NA
+CID_6102,60,Male,Suburban,Married,Graduate,14500.0,0,NA
+CID_7147,19,Female,Urban,Married,Post-Graduate,84000.0,0,NA
+CID_10971,29,Female,Suburban,Widowed,Graduate,6500.0,0,NA
+CID_11983,23,Male,Urban,Married,Graduate,52000.0,1,10
+CID_13654,46,Female,Suburban,Married,Post-Graduate,63500.0,1,2
+CID_7361,47,Female,Suburban,Widowed,Graduate,49500.0,0,NA
+CID_6128,51,Male,Suburban,Divorced,NA,33500.0,1,59
+CID_9106,76,Female,Rural,Single,NA,51500.0,1,8
+CID_12370,44,Male,Suburban,Widowed,Post-Graduate,23500.0,0,NA
+CID_8108,47,Female,Suburban,Widowed,High School,68000.0,1,35
+CID_12911,38,Male,Suburban,Married,Graduate,6500.0,0,NA
+CID_8658,72,Male,Suburban,Married,Graduate,17500.0,1,9
+CID_6197,48,Male,Urban,Divorced,High School,80000.0,1,29
+CID_6259,70,Female,Suburban,Single,Post-Graduate,71500.0,1,20
+CID_10057,58,Female,Suburban,Married,Post-Graduate,30500.0,0,NA
+CID_12761,50,Male,Urban,Widowed,Graduate,19500.0,1,34
+CID_11621,24,Male,Suburban,Civil partnered,NA,9000.0,1,3
+CID_6595,47,Male,Suburban,Married,Graduate,77000.0,1,43
+CID_11283,64,Female,Urban,Divorced,Graduate,29000.0,0,NA
+CID_13335,22,Male,Rural,Married,Post-Graduate,78500.0,0,NA
+CID_13060,29,Female,Urban,Divorced,Graduate,55500.0,1,24
+CID_13394,44,Male,Rural,Divorced,Graduate,39000.0,0,NA
+CID_8918,66,Female,Urban,Divorced,High School,82500.0,0,NA
+CID_8166,56,Female,Suburban,Civil partnered,Graduate,15000.0,1,15
+CID_6384,74,Male,Suburban,Single,Graduate,55500.0,1,0
+CID_5869,75,Male,Suburban,Married,High School,71000.0,0,NA
+CID_7408,47,Female,Suburban,Married,Post-Graduate,14500.0,0,NA
+CID_7545,60,Male,Urban,Divorced,Graduate,37000.0,0,NA
+CID_13450,53,Female,Suburban,Single,NA,15500.0,0,NA
+CID_9978,58,Male,Urban,Married,Graduate,65000.0,1,22
+CID_11370,20,Male,Rural,Divorced,Graduate,67000.0,1,3
+CID_14589,57,Male,Suburban,Married,NA,22000.0,1,19
+CID_8498,33,Female,Suburban,Divorced,Graduate,37000.0,0,NA
+CID_10422,53,Male,Suburban,Single,Graduate,22500.0,0,NA
+CID_7821,77,Female,Urban,Divorced,High School,52500.0,0,NA
+CID_9150,21,Male,Suburban,Married,Graduate,25000.0,1,13
+CID_8764,60,Female,Suburban,Single,High School,77500.0,1,1
+CID_12308,18,Female,Rural,Single,Graduate,35500.0,1,26
+CID_7015,63,Female,Rural,Married,Graduate,79500.0,1,7
+CID_6400,68,Male,Rural,Civil partnered,Graduate,65000.0,1,10
+CID_6787,66,Female,Suburban,Single,High School,58500.0,0,NA
+CID_8564,22,Female,Suburban,Married,High School,72500.0,0,NA
+CID_7554,61,Male,Urban,Married,Graduate,14000.0,1,40
+CID_9505,33,Female,Suburban,Single,NA,26000.0,1,12
+CID_8634,21,Female,Suburban,Single,Post-Graduate,64000.0,0,NA
+CID_6471,73,Male,Suburban,Married,Post-Graduate,19000.0,1,37
+CID_12058,61,Female,Rural,Divorced,High School,49000.0,1,3
+CID_9389,68,Female,Rural,Married,NA,68000.0,1,9
+CID_9241,34,Male,Urban,Married,Post-Graduate,52000.0,1,2
+CID_13233,50,Female,Suburban,Divorced,Post-Graduate,87000.0,0,NA
+CID_9645,43,Male,Rural,Divorced,Graduate,33500.0,1,1
+CID_11160,67,Female,Suburban,Divorced,Graduate,39000.0,1,13
+CID_6793,26,Female,Urban,Married,Graduate,16500.0,0,NA
+CID_9382,36,Female,Suburban,Widowed,Graduate,29000.0,1,1
+CID_14661,73,Male,Urban,Married,High School,74000.0,1,1
+CID_12289,39,Male,Suburban,Married,NA,24000.0,0,NA
+CID_7142,76,Female,Urban,Married,High School,27500.0,1,12
+CID_13753,46,Male,Rural,Married,Graduate,73500.0,0,NA
+CID_10330,55,Male,Urban,Married,Graduate,36500.0,0,NA
+CID_11609,49,Male,Rural,Married,Graduate,49000.0,0,NA
+CID_14592,74,Female,Urban,Divorced,Graduate,16000.0,0,NA
+CID_5746,44,Female,Suburban,Married,Post-Graduate,85500.0,0,NA
+CID_12802,50,Male,Suburban,Divorced,Graduate,6000.0,1,4
+CID_13493,69,Male,Suburban,Divorced,Graduate,71000.0,0,NA
+CID_6687,19,Male,Suburban,Single,NA,29000.0,1,36
+CID_14614,27,Female,Suburban,Married,Post-Graduate,57000.0,0,NA
+CID_12476,59,Female,Suburban,Divorced,Graduate,27000.0,0,NA
+CID_10549,20,Female,Urban,Married,Graduate,89000.0,1,8
+CID_10830,21,Female,Urban,Divorced,Graduate,79000.0,1,6
+CID_10015,22,Male,Rural,Single,High School,47500.0,0,NA
+CID_14283,59,Male,Suburban,Divorced,Graduate,42000.0,1,4
+CID_5833,47,Male,Rural,Married,Post-Graduate,50000.0,1,0
+CID_14001,39,Male,Rural,Single,High School,6500.0,0,NA
+CID_6056,65,Male,Urban,Single,NA,88500.0,0,NA
+CID_6080,36,Male,Suburban,Married,Graduate,28000.0,0,NA
+CID_5067,60,Male,Rural,Married,Graduate,54500.0,1,10
+CID_12770,31,Male,Rural,Divorced,Post-Graduate,59000.0,0,NA
+CID_11461,77,Female,Suburban,Divorced,Post-Graduate,14500.0,0,NA
+CID_11877,48,Female,Rural,Married,High School,24000.0,0,NA
+CID_8582,60,Male,Urban,Single,Post-Graduate,80500.0,0,NA
+CID_11653,65,Female,Suburban,Single,High School,25000.0,1,7
+CID_7443,71,Female,Suburban,Divorced,Graduate,65500.0,1,52
+CID_7640,64,Female,Rural,Married,High School,12000.0,0,NA
+CID_11560,71,Female,Urban,Divorced,Graduate,13000.0,1,12
+CID_5261,53,Male,Suburban,Divorced,Graduate,80000.0,1,35
+CID_11136,24,Female,Suburban,Divorced,High School,56500.0,0,NA
+CID_6940,45,Female,Rural,Married,Graduate,54000.0,0,NA
+CID_5543,29,Male,Suburban,Married,Post-Graduate,77000.0,0,NA
+CID_10351,75,Male,Urban,Divorced,High School,57500.0,0,NA
+CID_11327,38,Male,Suburban,Married,High School,68500.0,0,NA
+CID_9211,60,Male,Suburban,Single,Graduate,30500.0,0,NA
+CID_14391,58,Female,Urban,Widowed,Graduate,14500.0,0,NA
+CID_8011,72,Male,Rural,Divorced,Post-Graduate,72000.0,0,NA
+CID_6633,57,Female,Rural,Divorced,Post-Graduate,6500.0,0,NA
+CID_6301,43,Male,Suburban,Divorced,Graduate,36500.0,1,12
+CID_13508,34,Female,Suburban,Divorced,Graduate,30000.0,1,33
+CID_13940,37,Male,Urban,Married,Post-Graduate,25500.0,1,14
+CID_8546,18,Female,Suburban,Single,Graduate,56500.0,1,42
+CID_12999,36,Male,Suburban,Civil partnered,NA,54000.0,0,NA
+CID_9528,35,Female,Rural,Single,Graduate,8000.0,0,NA
+CID_5750,66,Female,Rural,Married,High School,86000.0,0,NA
+CID_7463,56,Male,Rural,Widowed,Graduate,67000.0,0,NA
+CID_14204,58,Female,Suburban,Married,High School,27500.0,0,NA
+CID_8844,68,Female,Suburban,Widowed,Graduate,25500.0,1,21
+CID_10030,32,Male,Suburban,Married,Post-Graduate,33500.0,1,10
+CID_14463,39,Female,Suburban,Married,Graduate,35000.0,0,NA
+CID_7460,27,Female,Urban,Married,Graduate,14000.0,0,NA
+CID_13891,50,Male,Suburban,Divorced,Graduate,71000.0,0,NA
+CID_8066,51,Male,Rural,Married,High School,63500.0,1,0
+CID_11595,36,Male,Urban,Single,High School,68000.0,1,14
+CID_11335,18,Female,Suburban,Single,Graduate,81500.0,1,5
+CID_13107,55,Male,Rural,Single,Graduate,79500.0,0,NA
+CID_10009,69,Female,Urban,Single,High School,70000.0,1,9
+CID_11691,19,Female,Suburban,Divorced,Graduate,40500.0,0,NA
+CID_7592,75,Female,Suburban,Single,Graduate,74000.0,1,14
+CID_14192,72,Female,Suburban,Civil partnered,Post-Graduate,70000.0,1,17
+CID_12660,33,Female,Suburban,Single,High School,47500.0,0,NA
+CID_10227,59,Male,Suburban,Divorced,High School,48000.0,1,21
+CID_11576,69,Male,Suburban,Married,Graduate,28000.0,0,NA
+CID_11799,49,Female,Urban,Married,High School,17500.0,1,3
+CID_10277,59,Female,Urban,Married,Post-Graduate,56500.0,0,NA
+CID_8185,18,Female,Suburban,Single,Post-Graduate,14000.0,1,27
+CID_7606,28,Female,Urban,Civil partnered,Post-Graduate,32000.0,1,23
+CID_11413,44,Female,Urban,Married,High School,8500.0,1,4
+CID_7246,66,Male,Suburban,Widowed,High School,65000.0,1,5
+CID_6996,43,Female,Suburban,Married,Post-Graduate,18500.0,0,NA
+CID_11103,27,Female,Rural,Divorced,Graduate,29000.0,1,31
+CID_5280,73,Female,Suburban,Widowed,High School,51500.0,0,NA
+CID_6563,45,Female,Urban,Divorced,Graduate,34000.0,0,NA
+CID_14555,32,Male,Rural,Divorced,Graduate,36500.0,0,NA
+CID_5718,29,Male,Suburban,Single,Graduate,29500.0,1,37
+CID_9782,30,Male,Suburban,Married,Post-Graduate,43500.0,1,7
+CID_13164,43,Male,Suburban,Married,Graduate,44000.0,0,NA
+CID_9182,73,Female,Urban,Single,High School,18500.0,0,NA
+CID_5637,54,Male,Urban,Single,Graduate,84500.0,0,NA
+CID_14598,71,Male,Suburban,Single,NA,54500.0,0,NA
+CID_6285,66,Male,Suburban,Single,High School,70500.0,0,NA
+CID_9694,22,Male,Suburban,Divorced,Post-Graduate,25000.0,0,NA
+CID_12523,48,Male,Suburban,Divorced,Graduate,10000.0,1,43
+CID_6796,75,Male,Suburban,Divorced,Graduate,20000.0,1,38
+CID_12313,53,Female,Suburban,Divorced,Graduate,75000.0,0,NA
+CID_12161,51,Female,Urban,Single,Graduate,68000.0,1,5
+CID_10521,56,Male,Urban,Married,Post-Graduate,20500.0,0,NA
+CID_5711,26,Female,Rural,Single,Post-Graduate,7500.0,1,36
+CID_10683,60,Male,Suburban,Widowed,High School,57000.0,0,NA
+CID_13759,50,Male,Suburban,Married,Graduate,74000.0,1,42
+CID_8885,35,Female,Urban,Divorced,High School,49500.0,0,NA
+CID_12340,65,Female,Rural,Single,Post-Graduate,89500.0,0,NA
+CID_12511,56,Male,Suburban,Single,Graduate,26500.0,1,6
+CID_11952,64,Male,Suburban,Divorced,Graduate,68500.0,1,6
+CID_6657,54,Male,Suburban,Single,Graduate,45000.0,1,35
+CID_14725,38,Female,Urban,Single,Post-Graduate,49000.0,1,46
+CID_13033,69,Male,Suburban,Single,Graduate,59500.0,1,15
+CID_7783,32,Male,Rural,Single,NA,41500.0,1,8
+CID_14820,26,Male,Urban,Married,High School,75500.0,1,17
+CID_9313,53,Male,Urban,Single,Post-Graduate,61500.0,1,13
+CID_10831,31,Male,Suburban,Widowed,High School,54000.0,1,39
+CID_6336,42,Male,Urban,Married,Graduate,58500.0,0,NA
+CID_10456,55,Male,Suburban,Married,High School,79500.0,1,32
+CID_8715,51,Male,Suburban,Married,Post-Graduate,51500.0,0,NA
+CID_14522,55,Female,Urban,Single,Post-Graduate,87500.0,0,NA
+CID_6383,27,Male,Suburban,Single,Graduate,52500.0,1,2
+CID_9870,57,Male,Suburban,Single,NA,16000.0,1,12
+CID_14345,20,Female,Suburban,Divorced,Graduate,59000.0,1,0
+CID_8799,63,Male,Suburban,Married,High School,21500.0,1,26
+CID_14087,74,Female,Suburban,Married,Graduate,33000.0,0,NA
+CID_6972,70,Female,Urban,Single,Graduate,53000.0,0,NA
+CID_7843,60,Female,Suburban,Married,High School,6000.0,1,15
+CID_10766,66,Female,Urban,Divorced,Post-Graduate,36500.0,0,NA
+CID_10225,25,Male,Rural,Married,Graduate,31000.0,0,NA
+CID_10454,36,Male,Suburban,Widowed,Graduate,22500.0,1,14
+CID_9949,39,Male,Urban,Single,Post-Graduate,32000.0,1,39
+CID_8038,41,Female,Rural,Married,NA,80000.0,1,27
+CID_10051,52,Male,Rural,Married,Graduate,18000.0,0,NA
+CID_6421,26,Female,Suburban,Divorced,High School,23500.0,0,NA
+CID_7738,72,Male,Rural,Single,Graduate,72000.0,0,NA
+CID_8706,23,Male,Suburban,Single,NA,45500.0,0,NA
+CID_13322,75,Female,Suburban,Widowed,Post-Graduate,79000.0,1,1
+CID_13213,65,Male,Rural,Married,Graduate,20000.0,0,NA
+CID_5741,30,Male,Urban,Divorced,High School,24500.0,1,13
+CID_10466,67,Female,Urban,Civil partnered,Graduate,73000.0,1,19
+CID_5692,21,Female,Urban,Married,Graduate,7500.0,0,NA
+CID_13410,77,Male,Suburban,Single,Graduate,51000.0,0,NA
+CID_6572,71,Male,Suburban,Divorced,Post-Graduate,74500.0,0,NA
+CID_5577,74,Male,Rural,Married,NA,47500.0,1,31
+CID_9021,37,Female,Rural,Single,NA,53500.0,0,NA
+CID_7352,30,Male,Rural,Married,Post-Graduate,87000.0,0,NA
+CID_13790,46,Female,Suburban,Divorced,Post-Graduate,28500.0,0,NA
+CID_6686,27,Male,Rural,Single,NA,85500.0,0,NA
+CID_7764,26,Female,Urban,Divorced,Post-Graduate,57500.0,1,16
+CID_10435,46,Male,Suburban,Married,High School,35500.0,0,NA
+CID_5533,75,Male,Suburban,Civil partnered,High School,9500.0,0,NA
+CID_6949,73,Female,Suburban,Civil partnered,Graduate,32500.0,1,18
+CID_6204,26,Female,Suburban,Married,Graduate,15000.0,1,17
+CID_13069,21,Female,Suburban,Single,NA,61500.0,0,NA
+CID_12760,26,Female,Suburban,Divorced,High School,35000.0,0,NA
+CID_6948,32,Male,Urban,Married,NA,57500.0,1,18
+CID_10463,54,Female,Rural,Single,Post-Graduate,74000.0,1,20
+CID_14028,30,Female,Rural,Widowed,Post-Graduate,26000.0,0,NA
+CID_11242,48,Male,Suburban,Single,High School,21500.0,0,NA
+CID_11067,29,Male,Urban,Married,Graduate,22500.0,1,40
+CID_11518,53,Female,Suburban,Married,Graduate,80000.0,1,18
+CID_5411,65,Female,Urban,Married,Graduate,23500.0,1,32
+CID_8728,50,Female,Suburban,Single,Graduate,36500.0,1,20
+CID_14055,53,Male,Suburban,Divorced,Graduate,54500.0,0,NA
+CID_10944,76,Female,Urban,Married,Graduate,27500.0,1,21
+CID_9017,75,Male,Rural,Married,High School,31000.0,0,NA
+CID_12784,54,Female,Suburban,Widowed,Graduate,46500.0,0,NA
+CID_6050,34,Female,Suburban,Divorced,Graduate,9500.0,0,NA
+CID_6928,76,Female,Rural,Married,Graduate,9500.0,0,NA
+CID_8965,36,Female,Urban,Married,Graduate,10000.0,0,NA
+CID_10142,22,Female,Suburban,Civil partnered,High School,20500.0,1,5
+CID_9359,37,Male,Suburban,Married,Graduate,36000.0,0,NA
+CID_14869,42,Female,Rural,Married,Post-Graduate,41000.0,0,NA
+CID_6529,31,Male,Suburban,Divorced,Graduate,41000.0,0,NA
+CID_10099,38,Male,Suburban,Married,Post-Graduate,9000.0,1,25
+CID_10860,71,Female,Urban,Civil partnered,High School,54500.0,0,NA
+CID_8631,21,Female,Suburban,Single,Graduate,58000.0,1,20
+CID_12845,26,Female,Suburban,Married,Post-Graduate,39500.0,0,NA
+CID_11169,77,Male,Rural,Single,Graduate,80000.0,1,17
+CID_13239,26,Female,Suburban,Married,NA,76000.0,1,8
+CID_9852,21,Female,Suburban,Single,High School,64500.0,1,29
+CID_5496,46,Male,Suburban,Married,Post-Graduate,35000.0,1,4
+CID_8592,68,Female,Suburban,Married,Graduate,56500.0,1,34
+CID_7530,45,Male,Suburban,Divorced,Post-Graduate,87500.0,0,NA
+CID_10934,66,Male,Rural,Widowed,Post-Graduate,27000.0,1,5
+CID_8422,71,Male,Rural,Married,Post-Graduate,20500.0,1,3
+CID_9791,44,Male,Suburban,Divorced,Graduate,44500.0,0,NA
+CID_6781,37,Female,Suburban,Married,Graduate,67000.0,1,13
+CID_5667,35,Male,Suburban,Married,Graduate,87000.0,0,NA
+CID_13235,76,Male,Rural,Single,Graduate,32000.0,0,NA
+CID_14012,28,Female,Urban,Single,Graduate,56000.0,0,NA
+CID_14142,36,Female,Suburban,Married,Graduate,7000.0,1,15
+CID_8368,39,Female,Suburban,Widowed,Graduate,76000.0,0,NA
+CID_13365,60,Male,Suburban,Married,Graduate,38500.0,1,37
+CID_10249,26,Male,Suburban,Divorced,Graduate,67500.0,1,23
+CID_5004,49,Female,Suburban,Divorced,Graduate,11000.0,0,NA
+CID_11601,58,Female,Urban,Civil partnered,High School,18500.0,1,17
+CID_12139,32,Male,Urban,Married,High School,36500.0,0,NA
+CID_13406,18,Female,Urban,Single,Graduate,89000.0,0,NA
+CID_11517,38,Male,Suburban,Divorced,Graduate,52500.0,0,NA
+CID_12024,67,Female,Suburban,Civil partnered,Graduate,25500.0,1,7
+CID_7572,57,Male,Suburban,Widowed,Graduate,57500.0,1,31
+CID_5994,67,Male,Urban,Married,Graduate,68500.0,1,13
+CID_10750,36,Male,Suburban,Civil partnered,Post-Graduate,74000.0,1,33
+CID_5424,73,Female,Suburban,Divorced,Graduate,52500.0,1,36
+CID_5519,41,Male,Suburban,Widowed,Graduate,48500.0,0,NA
+CID_9533,34,Male,Suburban,Civil partnered,Post-Graduate,63500.0,0,NA
+CID_7128,61,Male,Urban,Single,Graduate,20500.0,1,37
+CID_8500,59,Male,Suburban,Married,Post-Graduate,86000.0,1,41
+CID_12922,32,Female,Suburban,Divorced,Post-Graduate,45000.0,0,NA
+CID_14239,54,Female,Suburban,Single,Graduate,24000.0,0,NA
+CID_13036,41,Male,Suburban,Single,Graduate,33500.0,0,NA
+CID_10791,76,Female,Suburban,Divorced,Graduate,54000.0,0,NA
+CID_6332,32,Male,Urban,Civil partnered,Graduate,52500.0,0,NA
+CID_6703,36,Male,Urban,Single,Graduate,80500.0,0,NA
+CID_10319,45,Female,Suburban,Widowed,NA,60000.0,1,44
+CID_14148,37,Female,Urban,Single,Graduate,26500.0,1,34
+CID_8476,68,Female,Suburban,Single,Graduate,25500.0,1,18
+CID_9940,30,Male,Suburban,Civil partnered,High School,87500.0,0,NA
+CID_14309,71,Male,Suburban,Single,Post-Graduate,15000.0,0,NA
+CID_14402,39,Female,Suburban,Widowed,Graduate,76500.0,1,50
+CID_8925,63,Female,Urban,Married,Graduate,24500.0,1,6
+CID_11272,25,Male,Rural,Married,High School,88000.0,0,NA
+CID_13934,57,Male,Suburban,Single,Graduate,18500.0,0,NA
+CID_8803,25,Female,Suburban,Divorced,High School,60000.0,0,NA
+CID_13892,28,Female,Suburban,Married,Graduate,52000.0,0,NA
+CID_6917,23,Female,Suburban,Divorced,High School,19500.0,0,NA
+CID_8241,71,Male,Urban,Single,Graduate,76000.0,0,NA
+CID_7896,25,Female,Urban,Single,Graduate,66000.0,0,NA
+CID_7900,76,Female,Suburban,Married,NA,66500.0,0,NA
+CID_5437,52,Male,Suburban,Married,Graduate,23500.0,1,39
+CID_7125,65,Male,Rural,Single,Graduate,33500.0,0,NA
+CID_5388,46,Female,Urban,Married,Graduate,43000.0,0,NA
+CID_8650,66,Male,Rural,Married,Graduate,20500.0,1,36
+CID_11889,24,Female,Suburban,Divorced,Graduate,57000.0,0,NA
+CID_13664,44,Male,Suburban,Single,Post-Graduate,12500.0,1,23
+CID_8114,73,Male,Urban,Civil partnered,Graduate,32500.0,0,NA
+CID_11166,61,Male,Suburban,Single,Graduate,13000.0,1,20
+CID_5456,60,Female,Suburban,Married,Graduate,50000.0,0,NA
+CID_13177,57,Female,Urban,Civil partnered,High School,32000.0,1,13
+CID_5881,48,Male,Rural,Divorced,High School,85000.0,0,NA
+CID_14777,26,Female,Suburban,Widowed,Graduate,5500.0,1,15
+CID_12013,25,Female,Suburban,Divorced,Graduate,82500.0,0,NA
+CID_12471,33,Female,Suburban,Single,Graduate,13000.0,0,NA
+CID_14449,50,Male,Urban,Civil partnered,High School,83500.0,0,NA
+CID_8570,77,Male,Suburban,Married,High School,57000.0,1,31
+CID_14129,28,Male,Suburban,Divorced,High School,35000.0,1,13
+CID_9818,40,Female,Urban,Civil partnered,Graduate,7500.0,0,NA
+CID_10344,65,Female,Suburban,Divorced,High School,8000.0,0,NA
+CID_12502,21,Female,Suburban,Divorced,High School,42000.0,1,50
+CID_5783,77,Female,Urban,Divorced,Graduate,83500.0,1,21
+CID_9027,62,Male,Urban,Civil partnered,Graduate,33000.0,1,9
+CID_7898,30,Female,Rural,Single,High School,83500.0,1,7
+CID_13607,22,Male,Suburban,Married,High School,23500.0,1,2
+CID_13484,48,Male,Rural,Single,High School,16000.0,0,NA
+CID_13241,35,Female,Suburban,Married,Graduate,49500.0,0,NA
+CID_9823,21,Female,Suburban,Married,Graduate,87500.0,1,48
+CID_5029,54,Female,Urban,Married,Graduate,43000.0,0,NA
+CID_6211,23,Female,Suburban,Divorced,Post-Graduate,56500.0,0,NA
+CID_6897,41,Male,Suburban,Married,Graduate,52500.0,1,6
+CID_9247,29,Female,Rural,Married,High School,25000.0,0,NA
+CID_12694,48,Male,Suburban,Divorced,High School,88000.0,1,5
+CID_8209,30,Male,Suburban,Single,Post-Graduate,62500.0,1,8
+CID_10568,49,Male,Suburban,Married,Graduate,69000.0,1,14
+CID_10300,70,Female,Suburban,Married,Graduate,32500.0,1,11
+CID_6776,66,Male,Suburban,Widowed,High School,41000.0,1,10
+CID_7368,65,Female,Suburban,Married,Graduate,46500.0,1,8
+CID_13099,33,Female,Rural,Single,Graduate,42500.0,0,NA
+CID_9951,46,Female,Suburban,Married,High School,25000.0,1,14
+CID_7372,20,Male,Urban,Married,NA,57500.0,0,NA
+CID_5276,68,Male,Rural,Married,Graduate,51000.0,1,3
+CID_7998,70,Female,Urban,Divorced,Graduate,10000.0,0,NA
+CID_14584,69,Male,Suburban,Divorced,High School,52000.0,0,NA
+CID_14550,66,Male,Suburban,Divorced,NA,57000.0,0,NA
+CID_14946,57,Male,Rural,Civil partnered,High School,66000.0,1,12
+CID_8234,76,Female,Suburban,Single,NA,56500.0,0,NA
+CID_10786,59,Female,Urban,Single,Graduate,84500.0,1,15
+CID_14594,30,Male,Rural,Single,Graduate,53500.0,0,NA
+CID_8238,21,Female,Suburban,Widowed,High School,70500.0,1,25
+CID_10603,60,Female,Rural,Married,Graduate,55500.0,0,NA
+CID_5737,31,Female,Suburban,Married,Graduate,56500.0,0,NA
+CID_10723,52,Female,Suburban,Civil partnered,Graduate,47000.0,1,6
+CID_11353,56,Male,Suburban,Civil partnered,Graduate,14000.0,1,7
+CID_10203,68,Female,Suburban,Married,NA,66500.0,1,9
+CID_14338,22,Male,Suburban,Divorced,Graduate,85500.0,0,NA
+CID_7611,41,Female,Suburban,Civil partnered,Graduate,17500.0,0,NA
+CID_10503,53,Male,Suburban,Civil partnered,High School,45000.0,1,10
+CID_13553,52,Male,Suburban,Widowed,High School,81500.0,0,NA
+CID_10309,61,Female,Suburban,Single,NA,45500.0,1,8
+CID_14173,43,Male,Rural,Single,Post-Graduate,82000.0,1,13
+CID_8351,68,Male,Suburban,Widowed,Post-Graduate,75000.0,1,14
+CID_12314,67,Male,Urban,Divorced,Post-Graduate,37500.0,1,9
+CID_14039,64,Male,Rural,Married,Graduate,50000.0,0,NA
+CID_12631,25,Female,Urban,Married,Graduate,76500.0,0,NA
+CID_10450,77,Male,Suburban,Divorced,NA,35500.0,1,2
+CID_10990,42,Male,Urban,Widowed,Graduate,18000.0,1,1
+CID_7736,24,Male,Rural,Married,Graduate,19500.0,0,NA
+CID_10639,57,Male,Suburban,Married,High School,19000.0,1,8
+CID_14273,19,Female,Suburban,Civil partnered,Graduate,44500.0,1,18
+CID_6378,69,Female,Suburban,Widowed,Graduate,47500.0,1,27
+CID_10965,19,Female,Suburban,Single,Post-Graduate,31000.0,0,NA
+CID_5091,36,Male,Urban,Married,Post-Graduate,87500.0,1,6
+CID_7489,49,Female,Suburban,Divorced,Post-Graduate,16000.0,0,NA
+CID_13178,65,Female,Suburban,Divorced,Graduate,42000.0,1,26
+CID_14663,47,Male,Suburban,Widowed,Graduate,12000.0,1,11
+CID_11896,34,Female,Urban,Single,Post-Graduate,78500.0,1,10
+CID_14234,36,Female,Suburban,Civil partnered,High School,35500.0,0,NA
+CID_10767,49,Male,Suburban,Single,NA,49500.0,0,NA
+CID_13442,59,Male,Suburban,Married,NA,78500.0,0,NA
+CID_7323,19,Female,Suburban,Married,High School,81000.0,0,NA
+CID_6636,76,Female,Urban,Single,Post-Graduate,52000.0,0,NA
+CID_13243,19,Female,Suburban,Married,High School,67500.0,0,NA
+CID_14451,34,Female,Suburban,Widowed,Graduate,63500.0,1,12
+CID_12188,57,Female,Rural,Married,Post-Graduate,17500.0,0,NA
+CID_11515,24,Male,Rural,Married,High School,67000.0,1,3
+CID_11460,54,Female,Suburban,Married,Graduate,57500.0,1,24
+CID_8818,73,Male,Suburban,Divorced,Graduate,71000.0,1,18
+CID_9535,42,Female,Urban,Single,High School,12000.0,1,29
+CID_6681,61,Male,Urban,Married,Graduate,25500.0,1,13
+CID_12976,50,Male,Rural,Single,Graduate,38500.0,0,NA
+CID_13707,73,Male,Suburban,Single,Graduate,49500.0,1,16
+CID_5423,26,Female,Urban,Married,High School,35000.0,1,14
+CID_9487,71,Female,Suburban,Civil partnered,Graduate,70000.0,0,NA
+CID_7263,49,Male,Suburban,Married,Graduate,14500.0,1,13
+CID_6344,58,Male,Suburban,Divorced,Graduate,41500.0,1,33
+CID_8704,34,Male,Suburban,Widowed,Graduate,18000.0,1,18
+CID_6701,33,Female,Urban,Widowed,Post-Graduate,67500.0,0,NA
+CID_13944,37,Male,Urban,Married,Graduate,17000.0,1,15
+CID_14298,72,Male,Urban,Widowed,Graduate,32500.0,1,16
+CID_9285,18,Female,Suburban,Single,Graduate,88000.0,0,NA
+CID_6941,46,Female,Rural,Married,Graduate,72000.0,1,5
+CID_12160,19,Female,Rural,Divorced,High School,21000.0,0,NA
+CID_11591,67,Female,Suburban,Single,Graduate,9500.0,0,NA
+CID_11055,67,Female,Suburban,Married,NA,40000.0,0,NA
+CID_6182,61,Female,Suburban,Widowed,Graduate,8500.0,1,14
+CID_6404,56,Male,Suburban,Divorced,Graduate,83000.0,0,NA
+CID_7257,41,Male,Suburban,Married,Graduate,65500.0,0,NA
+CID_13884,22,Male,Urban,Married,Graduate,26000.0,1,25
+CID_7453,48,Male,Urban,Married,Graduate,77500.0,1,12
+CID_8022,64,Male,Urban,Divorced,High School,53000.0,0,NA
+CID_14785,47,Male,Suburban,Married,High School,64000.0,1,2
+CID_7434,37,Male,Rural,Divorced,Graduate,40000.0,0,NA
+CID_8486,69,Female,Suburban,Married,Post-Graduate,40000.0,1,15
+CID_13077,19,Male,Suburban,Married,Graduate,27500.0,1,32
+CID_9835,36,Male,Suburban,Married,High School,10000.0,1,1
+CID_6500,36,Female,Urban,Civil partnered,Graduate,50000.0,0,NA
+CID_14771,19,Male,Rural,Married,Graduate,9000.0,0,NA
+CID_6032,59,Male,Rural,Single,High School,28500.0,0,NA
+CID_5353,22,Male,Urban,Married,High School,88500.0,1,19
+CID_8710,64,Female,Suburban,Civil partnered,Graduate,54500.0,1,26
+CID_8107,67,Male,Urban,Divorced,Graduate,65500.0,0,NA
+CID_14861,24,Female,Suburban,Married,High School,88000.0,0,NA
+CID_8973,59,Female,Suburban,Married,Graduate,71000.0,1,16
+CID_10295,40,Male,Suburban,Divorced,NA,14000.0,1,11
+CID_14024,28,Female,Suburban,Single,Graduate,37000.0,0,NA
+CID_8017,66,Female,Urban,Married,High School,49500.0,1,12
+CID_5204,28,Male,Suburban,Married,Post-Graduate,79000.0,1,15
+CID_8104,35,Male,Rural,Civil partnered,Post-Graduate,46000.0,0,NA
+CID_13913,54,Male,Rural,Married,Graduate,51000.0,1,28
+CID_10216,54,Male,Rural,Married,High School,81000.0,0,NA
+CID_8522,40,Female,Suburban,Widowed,Graduate,71500.0,0,NA
+CID_12901,58,Male,Suburban,Married,High School,47500.0,1,16
+CID_12185,56,Male,Suburban,Civil partnered,Graduate,48500.0,0,NA
+CID_13073,26,Male,Rural,Married,Graduate,88500.0,0,NA
+CID_14520,77,Male,Suburban,Divorced,High School,8000.0,0,NA
+CID_10725,35,Male,Rural,Divorced,Graduate,43000.0,1,8
+CID_11852,50,Female,Suburban,Single,High School,68500.0,0,NA
+CID_10623,37,Male,Suburban,Divorced,Post-Graduate,22500.0,0,NA
+CID_9316,49,Female,Urban,Civil partnered,Graduate,68500.0,0,NA
+CID_14993,77,Male,Urban,Married,NA,26000.0,0,NA
+CID_6426,26,Male,Urban,Single,Post-Graduate,68000.0,0,NA
+CID_10171,55,Female,Urban,Married,Graduate,13500.0,0,NA
+CID_12741,72,Female,Urban,Married,Graduate,41000.0,1,15
+CID_11268,34,Female,Suburban,Civil partnered,Graduate,23500.0,1,37
+CID_9266,58,Female,Urban,Married,Post-Graduate,82500.0,0,NA
+CID_12432,73,Female,Suburban,Married,NA,21500.0,0,NA
+CID_6903,44,Male,Urban,Civil partnered,Graduate,39500.0,0,NA
+CID_7456,53,Female,Suburban,Married,Post-Graduate,42000.0,1,5
+CID_14877,60,Male,Suburban,Married,Graduate,13000.0,1,15
+CID_10519,37,Male,Suburban,Married,Graduate,58500.0,0,NA
+CID_9918,64,Female,Suburban,Single,High School,58000.0,1,8
+CID_7647,20,Male,Urban,Married,Graduate,45500.0,0,NA
+CID_11213,34,Male,Suburban,Widowed,Graduate,48500.0,1,18
+CID_9984,55,Male,Suburban,Married,Post-Graduate,85000.0,1,15
+CID_10005,62,Male,Rural,Civil partnered,Post-Graduate,42500.0,1,35
+CID_13317,42,Female,Rural,Single,NA,73000.0,1,25
+CID_8552,52,Male,Rural,Married,High School,52500.0,0,NA
+CID_7370,27,Male,Suburban,Widowed,NA,11500.0,1,36
+CID_11084,37,Female,Suburban,Single,High School,69000.0,0,NA
+CID_10043,72,Male,Suburban,Single,High School,81000.0,1,15
+CID_5394,24,Male,Rural,Single,Graduate,52500.0,0,NA
+CID_9988,70,Female,Urban,Married,Graduate,38500.0,0,NA
+CID_13368,51,Female,Rural,Married,High School,39000.0,1,9
+CID_9472,36,Female,Suburban,Married,Graduate,39000.0,0,NA
+CID_13230,64,Male,Suburban,Married,Graduate,36500.0,0,NA
+CID_7245,54,Female,Suburban,Married,High School,48000.0,0,NA
+CID_5080,71,Female,Suburban,Married,High School,41000.0,1,27
+CID_9086,70,Female,Rural,Civil partnered,Post-Graduate,13500.0,0,NA
+CID_13791,63,Female,Urban,Married,High School,41000.0,0,NA
+CID_10484,32,Female,Urban,Married,Graduate,28000.0,0,NA
+CID_12138,58,Female,Suburban,Married,Graduate,22500.0,0,NA
+CID_9935,58,Male,Suburban,Married,Graduate,56000.0,0,NA
+CID_7957,27,Female,Suburban,Single,High School,69500.0,1,32
+CID_8551,72,Female,Suburban,Divorced,NA,60000.0,1,18
+CID_9874,76,Female,Suburban,Married,Graduate,39500.0,0,NA
+CID_14606,36,Male,Rural,Widowed,NA,56000.0,1,31
+CID_7781,56,Female,Suburban,Divorced,Post-Graduate,8000.0,1,1
+CID_10636,67,Female,Suburban,Married,Graduate,11000.0,0,NA
+CID_13781,61,Female,Urban,Married,High School,6500.0,1,9
+CID_5031,38,Female,Rural,Married,Graduate,58500.0,0,NA
+CID_11536,27,Female,Rural,Single,Graduate,46000.0,1,23
+CID_8268,24,Female,Suburban,Married,Graduate,61500.0,1,45
+CID_14685,77,Female,Rural,Single,Graduate,54000.0,1,7
+CID_5497,34,Male,Suburban,Civil partnered,Graduate,36500.0,1,11
+CID_5014,38,Male,Urban,Married,Graduate,40000.0,1,43
+CID_14913,66,Female,Urban,Widowed,Graduate,45000.0,1,15
+CID_12287,46,Female,Rural,Civil partnered,High School,37500.0,0,NA
+CID_10758,18,Male,Rural,Single,Graduate,28000.0,0,NA
+CID_9103,42,Female,Suburban,Married,Graduate,11000.0,0,NA
+CID_14791,55,Male,Rural,Divorced,Graduate,56000.0,1,10
+CID_7681,77,Male,Suburban,Married,High School,63500.0,1,21
+CID_8791,73,Male,Suburban,Divorced,Graduate,60000.0,0,NA
+CID_10007,69,Female,Urban,Divorced,Graduate,13000.0,0,NA
+CID_6105,32,Female,Urban,Widowed,Graduate,61000.0,0,NA
+CID_7002,73,Male,Urban,Single,Graduate,45000.0,0,NA
+CID_12630,46,Male,Rural,Married,High School,20500.0,1,7
+CID_11124,42,Male,Rural,Single,Graduate,51000.0,0,NA
+CID_14119,69,Female,Suburban,Married,Graduate,65500.0,1,10
+CID_12183,77,Male,Rural,Single,High School,25000.0,0,NA
+CID_14905,34,Female,Suburban,Widowed,High School,46000.0,0,NA
+CID_5930,77,Female,Rural,Widowed,Graduate,73500.0,0,NA
+CID_5997,49,Male,Urban,Married,Graduate,20500.0,1,15
+CID_6405,44,Female,Suburban,Single,High School,15000.0,0,NA
+CID_12740,64,Female,Rural,Married,NA,63500.0,1,22
+CID_8813,20,Male,Suburban,Civil partnered,High School,69500.0,1,24
+CID_11414,42,Female,Suburban,Single,High School,79000.0,1,23
+CID_7338,44,Female,Suburban,Civil partnered,Post-Graduate,77000.0,1,7
+CID_13492,20,Female,Suburban,Married,High School,47500.0,1,29
+CID_9212,23,Female,Suburban,Married,Graduate,84000.0,1,22
+CID_12744,59,Male,Rural,Married,High School,34500.0,0,NA
+CID_10274,21,Male,Suburban,Married,Post-Graduate,42500.0,1,45
+CID_14774,65,Male,Suburban,Married,Graduate,21000.0,0,NA
+CID_10041,20,Male,Suburban,Single,Post-Graduate,56000.0,1,8
+CID_11176,72,Female,Rural,Married,Graduate,40000.0,0,NA
+CID_9769,71,Male,Suburban,Widowed,Graduate,61000.0,0,NA
+CID_9817,60,Female,Urban,Civil partnered,Graduate,73000.0,0,NA
+CID_5506,20,Male,Suburban,Single,NA,29000.0,1,24
+CID_14724,40,Male,Suburban,Single,Graduate,35000.0,0,NA
+CID_6911,68,Male,Rural,Married,Graduate,43500.0,0,NA
+CID_7651,54,Male,Suburban,Divorced,Graduate,25500.0,1,6
+CID_10221,60,Female,Suburban,Divorced,Graduate,72000.0,1,10
+CID_7324,69,Female,Suburban,Married,Graduate,38000.0,1,33
+CID_9776,42,Male,Suburban,Single,Graduate,15500.0,0,NA
+CID_5164,45,Male,Suburban,Single,Graduate,9500.0,1,2
+CID_13601,29,Male,Suburban,Widowed,Graduate,85000.0,0,NA
+CID_14770,61,Male,Rural,Married,High School,63000.0,0,NA
+CID_9477,24,Male,Suburban,Married,Graduate,8500.0,1,28
+CID_7343,74,Female,Suburban,Married,High School,69500.0,0,NA
+CID_8155,41,Female,Urban,Divorced,Graduate,49000.0,0,NA
+CID_9682,69,Female,Rural,Single,High School,38500.0,1,7
+CID_11485,29,Male,Rural,Married,NA,39000.0,0,NA
+CID_6585,51,Female,Urban,Single,High School,71000.0,1,9
+CID_7169,63,Female,Suburban,Married,Graduate,36500.0,0,NA
+CID_14115,66,Male,Suburban,Widowed,Graduate,37500.0,0,NA
+CID_5036,35,Female,Urban,Divorced,High School,63000.0,1,9
+CID_14847,28,Female,Urban,Divorced,Post-Graduate,34500.0,0,NA
+CID_6416,22,Male,Suburban,Married,Graduate,18500.0,1,0
+CID_10665,20,Male,Suburban,Married,Graduate,54000.0,1,16
+CID_5371,43,Female,Suburban,Divorced,Graduate,17500.0,0,NA
+CID_12389,35,Female,Urban,Married,High School,74000.0,0,NA
+CID_9440,40,Male,Rural,Civil partnered,Graduate,38500.0,0,NA
+CID_9322,20,Male,Urban,Married,Graduate,18500.0,0,NA
+CID_5860,61,Male,Rural,Married,Graduate,83000.0,1,9
+CID_11541,48,Male,Suburban,Married,Post-Graduate,31000.0,1,1
+CID_9739,75,Male,Suburban,Married,High School,51500.0,0,NA
+CID_10158,46,Female,Suburban,Single,Graduate,42000.0,0,NA
+CID_13254,23,Male,Suburban,Widowed,Graduate,42000.0,0,NA
+CID_13336,58,Male,Suburban,Divorced,Graduate,50000.0,1,2
+CID_9750,56,Male,Suburban,Married,High School,72500.0,1,16
+CID_6814,55,Male,Suburban,Married,NA,9500.0,0,NA
+CID_5712,70,Male,Suburban,Widowed,NA,41000.0,1,37
+CID_11068,39,Female,Rural,Married,High School,35500.0,0,NA
+CID_7810,57,Male,Urban,Married,High School,50000.0,1,0
+CID_14336,22,Female,Suburban,Married,High School,18500.0,1,14
+CID_5231,77,Male,Suburban,Widowed,Post-Graduate,69000.0,0,NA
+CID_6217,56,Female,Urban,Divorced,Graduate,47000.0,1,22
+CID_6611,75,Female,Rural,Married,Graduate,7000.0,0,NA
+CID_9860,60,Male,Suburban,Married,High School,67000.0,0,NA
+CID_7749,37,Female,Suburban,Married,Graduate,29500.0,1,18
+CID_9018,51,Female,Suburban,Single,NA,32000.0,0,NA
+CID_14137,63,Female,Rural,Married,Graduate,85500.0,0,NA
+CID_10765,34,Female,Rural,Married,Graduate,44500.0,1,9
+CID_13618,29,Male,Suburban,Single,Graduate,8000.0,0,NA
+CID_6947,61,Female,Urban,Divorced,High School,58000.0,0,NA
+CID_13151,18,Female,Rural,Married,Graduate,19000.0,1,21
+CID_7339,31,Female,Suburban,Single,High School,38000.0,0,NA
+CID_11930,27,Male,Rural,Single,Post-Graduate,34000.0,0,NA
+CID_12830,53,Male,Suburban,Divorced,NA,73000.0,0,NA
+CID_8750,70,Male,Rural,Divorced,Graduate,28500.0,1,36
+CID_5943,36,Male,Suburban,Single,High School,44000.0,0,NA
+CID_12483,65,Female,Rural,Married,NA,20000.0,1,13
+CID_9412,69,Male,Suburban,Married,Post-Graduate,48000.0,0,NA
+CID_12926,54,Female,Suburban,Married,NA,78000.0,1,14
+CID_11178,31,Male,Suburban,Married,Post-Graduate,85500.0,1,17
+CID_13179,23,Female,Urban,Divorced,Graduate,84000.0,0,NA
+CID_12882,41,Female,Urban,Married,High School,75000.0,0,NA
+CID_8992,56,Female,Suburban,Married,High School,46500.0,0,NA
+CID_13745,30,Female,Suburban,Divorced,Graduate,59000.0,1,29
+CID_12463,75,Male,Suburban,Single,Graduate,27500.0,1,0
+CID_14064,42,Female,Rural,Divorced,NA,22500.0,0,NA
+CID_6038,40,Female,Suburban,Single,Graduate,39500.0,0,NA
+CID_9108,23,Male,Suburban,Married,Graduate,37500.0,1,29
+CID_6685,24,Female,Suburban,Single,NA,12500.0,1,32
+CID_12051,66,Male,Suburban,Married,Graduate,83000.0,1,40
+CID_13832,67,Male,Urban,Married,High School,47000.0,1,22
+CID_7897,64,Female,Urban,Single,High School,89000.0,1,2
+CID_6815,25,Male,Suburban,Civil partnered,Graduate,89500.0,1,36
+CID_11858,61,Female,Suburban,Divorced,Graduate,81000.0,0,NA
+CID_8313,40,Female,Rural,Widowed,Graduate,22000.0,1,8
+CID_10819,45,Female,Suburban,Married,Graduate,13500.0,0,NA
+CID_10416,35,Female,Suburban,Single,Post-Graduate,73500.0,0,NA
+CID_10699,52,Female,Suburban,Single,High School,50000.0,0,NA
+CID_10226,26,Female,Suburban,Single,Graduate,41500.0,1,17
+CID_14632,32,Female,Suburban,Civil partnered,Post-Graduate,55500.0,0,NA
+CID_11386,33,Female,Suburban,Married,Graduate,78000.0,0,NA
+CID_11615,73,Female,Suburban,Married,Graduate,82000.0,0,NA
+CID_7884,23,Female,Suburban,Married,High School,68000.0,0,NA
+CID_11066,26,Male,Suburban,Divorced,Graduate,34500.0,1,18
+CID_9566,57,Male,Rural,Divorced,NA,49500.0,1,22
+CID_6143,41,Female,Suburban,Married,High School,83000.0,0,NA
+CID_12908,56,Male,Rural,Married,Graduate,81500.0,1,19
+CID_10373,56,Male,Urban,Married,High School,76500.0,1,11
+CID_5125,19,Male,Urban,Single,Graduate,53000.0,1,22
+CID_12872,69,Female,Suburban,Widowed,High School,85000.0,1,9
+CID_10100,52,Female,Suburban,Divorced,Graduate,41500.0,1,14
+CID_8124,59,Female,Rural,Married,Graduate,62000.0,0,NA
+CID_13643,39,Male,Suburban,Married,High School,81500.0,0,NA
+CID_7062,72,Male,Suburban,Married,Post-Graduate,21500.0,1,11
+CID_7084,50,Male,Rural,Single,High School,76000.0,0,NA
+CID_11024,24,Male,Suburban,Married,High School,11500.0,0,NA
+CID_11499,25,Male,Suburban,Married,Graduate,68500.0,0,NA
+CID_11957,65,Female,Suburban,Single,Graduate,18500.0,1,14
+CID_5830,37,Male,Suburban,Divorced,High School,85000.0,1,24
+CID_5492,67,Female,Rural,Divorced,Graduate,39000.0,1,19
+CID_5654,37,Male,Rural,Married,Graduate,19000.0,1,10
+CID_14416,54,Male,Suburban,Single,Graduate,51500.0,1,7
+CID_12925,53,Female,Rural,Divorced,Graduate,82000.0,1,19
+CID_12975,63,Male,Rural,Married,Post-Graduate,31500.0,1,8
+CID_5356,18,Female,Suburban,Married,High School,63000.0,1,11
+CID_11509,53,Female,Urban,Widowed,Graduate,21000.0,0,NA
+CID_13566,76,Male,Suburban,Married,Post-Graduate,66000.0,0,NA
+CID_11002,76,Female,Rural,Single,High School,24500.0,0,NA
+CID_14438,26,Female,Suburban,Married,Graduate,52500.0,0,NA
+CID_9423,67,Male,Rural,Married,Post-Graduate,55000.0,0,NA
+CID_11558,24,Female,Rural,Married,Post-Graduate,21000.0,0,NA
+CID_9216,40,Female,Suburban,Married,NA,36500.0,0,NA
+CID_12423,35,Female,Rural,Single,Graduate,89500.0,1,26
+CID_8444,59,Female,Rural,Married,Graduate,26000.0,0,NA
+CID_6679,45,Male,Suburban,Single,Post-Graduate,69000.0,1,29
+CID_6329,67,Female,Suburban,Single,Graduate,86000.0,1,19
+CID_6550,19,Male,Rural,Single,Graduate,18500.0,1,13
+CID_7944,54,Female,Suburban,Single,Post-Graduate,81000.0,1,33
+CID_10054,61,Male,Urban,Married,NA,22500.0,0,NA
+CID_13981,23,Male,Rural,Civil partnered,High School,20000.0,0,NA
+CID_13641,59,Female,Rural,Divorced,Graduate,39000.0,0,NA
+CID_14501,18,Male,Suburban,Married,Graduate,38000.0,0,NA
+CID_13132,36,Female,Urban,Divorced,Graduate,43500.0,0,NA
+CID_6367,76,Male,Urban,Married,High School,60500.0,0,NA
+CID_8435,65,Male,Suburban,Civil partnered,High School,60000.0,1,27
+CID_8363,24,Male,Rural,Married,Graduate,55000.0,0,NA
+CID_7672,41,Male,Suburban,Widowed,Graduate,46500.0,0,NA
+CID_5787,18,Female,Urban,Married,High School,35000.0,0,NA
+CID_6794,68,Female,Urban,Civil partnered,Graduate,59000.0,1,32
+CID_6782,63,Male,Urban,Married,Post-Graduate,68500.0,0,NA
+CID_12282,70,Male,Urban,Married,High School,17500.0,0,NA
+CID_5172,51,Male,Suburban,Single,High School,16000.0,0,NA
+CID_14518,21,Female,Suburban,Divorced,Graduate,54000.0,0,NA
+CID_8385,63,Female,Suburban,Divorced,High School,47500.0,1,30
+CID_10436,25,Female,Rural,Single,Graduate,80000.0,1,23
+CID_11835,18,Female,Urban,Married,Graduate,7500.0,0,NA
+CID_11497,66,Male,Suburban,Divorced,Post-Graduate,49000.0,1,13
+CID_14185,58,Male,Urban,Single,Post-Graduate,35000.0,1,41
+CID_10621,63,Female,Rural,Single,Graduate,56000.0,1,26
+CID_9945,66,Male,Urban,Single,Graduate,41000.0,1,19
+CID_6134,35,Male,Urban,Widowed,High School,34500.0,0,NA
+CID_6630,36,Male,Suburban,Single,Graduate,32000.0,0,NA
+CID_10084,43,Male,Suburban,Divorced,Post-Graduate,19000.0,1,28
+CID_6463,74,Female,Rural,Married,High School,89500.0,1,13
+CID_8280,63,Female,Suburban,Civil partnered,Post-Graduate,53000.0,0,NA
+CID_12238,22,Male,Suburban,Civil partnered,Post-Graduate,36000.0,0,NA
+CID_9865,72,Female,Urban,Married,Graduate,77000.0,0,NA
+CID_11650,65,Male,Urban,Widowed,Graduate,69500.0,0,NA
+CID_11838,31,Female,Suburban,Divorced,Graduate,37000.0,0,NA
+CID_7850,23,Male,Rural,Married,Graduate,87500.0,0,NA
+CID_11215,68,Male,Rural,Married,Graduate,52500.0,1,2
+CID_10012,57,Female,Suburban,Single,Post-Graduate,50000.0,1,31
+CID_8236,47,Female,Rural,Divorced,Graduate,89000.0,0,NA
+CID_14276,53,Male,Suburban,Divorced,Graduate,48500.0,0,NA
+CID_6670,23,Male,Rural,Widowed,Graduate,50000.0,0,NA
+CID_6455,20,Male,Rural,Single,Post-Graduate,34000.0,1,6
+CID_11704,67,Male,Urban,Widowed,Post-Graduate,72500.0,1,4
+CID_6220,21,Female,Suburban,Divorced,High School,66000.0,1,28
+CID_8742,57,Female,Urban,Married,High School,24000.0,1,13
+CID_12627,47,Male,Suburban,Single,Graduate,60500.0,1,0
+CID_12932,28,Female,Urban,Divorced,Graduate,84000.0,0,NA
+CID_7199,29,Male,Urban,Married,High School,67500.0,0,NA
+CID_12561,55,Male,Suburban,Single,Graduate,12000.0,0,NA
+CID_11028,65,Male,Suburban,Married,Graduate,60500.0,1,55
+CID_5908,39,Female,Urban,Widowed,High School,40500.0,1,19
+CID_8370,45,Male,Rural,Married,NA,53500.0,1,35
+CID_13330,18,Male,Suburban,Married,NA,40000.0,0,NA
+CID_14587,52,Female,Rural,Divorced,Graduate,79000.0,0,NA
+CID_9873,63,Male,Suburban,Married,NA,6000.0,1,29
+CID_5107,48,Female,Suburban,Civil partnered,Graduate,59500.0,1,6
+CID_12437,37,Female,Rural,Married,Graduate,85500.0,0,NA
+CID_8436,38,Female,Urban,Single,Post-Graduate,41500.0,1,10
+CID_9995,56,Male,Suburban,Single,Graduate,86500.0,0,NA
+CID_9648,40,Female,Rural,Widowed,Graduate,21500.0,0,NA
+CID_7493,24,Female,Urban,Married,Graduate,6000.0,0,NA
+CID_10321,66,Female,Rural,Single,High School,35000.0,1,9
+CID_5593,45,Female,Suburban,Widowed,Graduate,8000.0,1,7
+CID_5368,67,Female,Suburban,Widowed,Graduate,11000.0,1,38
+CID_8665,61,Male,Suburban,Married,Graduate,8000.0,1,29
+CID_12897,67,Male,Suburban,Single,Graduate,71000.0,0,NA
+CID_11356,68,Female,Suburban,Divorced,High School,32000.0,0,NA
+CID_11727,62,Female,Rural,Married,High School,15500.0,0,NA
+CID_7811,65,Male,Urban,Divorced,Graduate,82500.0,1,25
+CID_8623,33,Male,Rural,Married,Graduate,89500.0,0,NA
+CID_12776,42,Female,Urban,Married,Graduate,9000.0,0,NA
+CID_12634,69,Female,Rural,Single,Graduate,22500.0,1,29
+CID_12487,44,Female,Urban,Married,Post-Graduate,78500.0,1,9
+CID_8622,66,Male,Rural,Married,Graduate,69500.0,1,12
+CID_5571,24,Female,Urban,Married,Graduate,13500.0,0,NA
+CID_11697,44,Female,Urban,Married,Graduate,31500.0,1,32
+CID_6690,45,Female,Suburban,Married,Graduate,38500.0,0,NA
+CID_10993,46,Female,Urban,Divorced,Graduate,80500.0,1,22
+CID_8689,26,Female,Urban,Married,High School,51500.0,0,NA
+CID_7291,27,Female,Urban,Married,NA,48000.0,0,NA
+CID_14195,41,Male,Suburban,Married,High School,50500.0,1,6
+CID_6950,72,Male,Suburban,Married,Graduate,27000.0,1,20
+CID_7166,42,Female,Suburban,Married,High School,53000.0,0,NA
+CID_7156,76,Male,Suburban,Divorced,Graduate,56000.0,1,10
+CID_12530,39,Male,Urban,Married,Graduate,83500.0,1,18
+CID_14135,31,Female,Urban,Married,NA,16000.0,0,NA
+CID_10206,25,Female,Suburban,Civil partnered,High School,76500.0,0,NA
+CID_11089,36,Male,Urban,Widowed,Graduate,57000.0,0,NA
+CID_10955,74,Male,Suburban,Married,Graduate,22000.0,0,NA
+CID_7479,75,Male,Rural,Married,High School,47500.0,1,35
+CID_8099,64,Female,Suburban,Single,High School,58000.0,0,NA
+CID_14854,39,Female,Rural,Single,Graduate,8000.0,1,1
+CID_5046,71,Female,Suburban,Married,Post-Graduate,71000.0,0,NA
+CID_8662,43,Female,Suburban,Divorced,Post-Graduate,26000.0,1,51
+CID_8872,45,Female,Suburban,Widowed,Graduate,83500.0,1,33
+CID_9856,74,Female,Suburban,Married,High School,57500.0,0,NA
+CID_14412,58,Female,Suburban,Married,Graduate,67500.0,1,30
+CID_5293,25,Male,Urban,Single,High School,45000.0,0,NA
+CID_6734,49,Male,Rural,Married,High School,36000.0,0,NA
+CID_10055,40,Male,Suburban,Single,Graduate,43000.0,0,NA
+CID_6616,72,Female,Urban,Divorced,Graduate,27000.0,0,NA
+CID_5481,68,Male,Rural,Widowed,Graduate,52000.0,0,NA
+CID_7430,75,Female,Urban,Married,Post-Graduate,70000.0,0,NA
+CID_12059,36,Female,Rural,Married,Post-Graduate,59500.0,0,NA
+CID_7734,37,Male,Suburban,Married,Graduate,6000.0,0,NA
+CID_5013,54,Male,Rural,Single,High School,31500.0,1,40
+CID_6518,74,Female,Suburban,Married,Graduate,6000.0,1,3
+CID_11659,20,Male,Rural,Married,High School,16500.0,1,7
+CID_11680,67,Male,Suburban,Single,High School,36500.0,1,4
+CID_10656,36,Male,Rural,Married,Graduate,89500.0,0,NA
+CID_9652,29,Female,Suburban,Divorced,Graduate,55500.0,0,NA
+CID_8375,67,Male,Suburban,Divorced,High School,41000.0,0,NA
+CID_13116,52,Male,Rural,Divorced,Graduate,42500.0,1,18
+CID_12348,47,Female,Suburban,Divorced,Post-Graduate,26000.0,0,NA
+CID_7164,59,Female,Suburban,Widowed,Graduate,44500.0,1,3
+CID_12253,29,Male,Urban,Single,Graduate,87500.0,0,NA
+CID_12424,21,Male,Rural,Married,High School,41500.0,0,NA
+CID_8675,33,Male,Urban,Single,Graduate,18500.0,1,17
+CID_14408,30,Female,Suburban,Divorced,Graduate,6000.0,0,NA
+CID_8861,23,Female,Suburban,Married,Graduate,72000.0,1,7
+CID_12478,43,Female,Rural,Married,High School,85000.0,0,NA
+CID_5719,73,Female,Rural,Married,Post-Graduate,55000.0,0,NA
+CID_6731,77,Male,Rural,Widowed,NA,51000.0,0,NA
+CID_8664,59,Male,Urban,Divorced,Graduate,20500.0,0,NA
+CID_12988,75,Male,Urban,Single,Post-Graduate,63000.0,0,NA
+CID_14479,28,Female,Rural,Divorced,Post-Graduate,21000.0,1,12
+CID_13329,41,Male,Rural,Civil partnered,Post-Graduate,41500.0,0,NA
+CID_5136,52,Male,Urban,Married,Graduate,27500.0,0,NA
+CID_8186,74,Female,Suburban,Married,Graduate,8000.0,1,21
+CID_10098,26,Female,Urban,Married,Graduate,47500.0,1,26
+CID_9069,61,Male,Rural,Single,Graduate,53000.0,0,NA
+CID_5427,70,Male,Rural,Divorced,High School,37500.0,0,NA
+CID_9159,71,Female,Urban,Married,Graduate,69500.0,1,7
+CID_9554,29,Male,Rural,Civil partnered,High School,47500.0,0,NA
+CID_12142,47,Male,Suburban,Married,Graduate,88000.0,0,NA
+CID_9575,19,Male,Urban,Single,High School,58500.0,0,NA
+CID_6287,37,Female,Suburban,Divorced,Post-Graduate,37000.0,1,9
+CID_10836,73,Female,Suburban,Married,NA,7000.0,0,NA
+CID_14008,71,Female,Suburban,Married,NA,80500.0,1,20
+CID_5955,49,Male,Suburban,Married,Graduate,28500.0,1,14
+CID_11803,41,Male,Suburban,Divorced,Post-Graduate,71500.0,1,27
+CID_12727,41,Male,Suburban,Divorced,Graduate,72500.0,0,NA
+CID_7725,57,Male,Suburban,Widowed,High School,89500.0,1,20
+CID_8554,21,Female,Suburban,Married,High School,23000.0,1,63
+CID_10548,24,Female,Suburban,Single,Graduate,72500.0,0,NA
+CID_9632,60,Female,Suburban,Divorced,Graduate,88500.0,0,NA
+CID_5989,22,Male,Rural,Married,Post-Graduate,78000.0,0,NA
+CID_6348,43,Male,Rural,Civil partnered,High School,51000.0,0,NA
+CID_14107,76,Male,Urban,Married,Graduate,42000.0,1,13
+CID_7213,37,Male,Urban,Married,NA,6500.0,1,13
+CID_8663,57,Female,Urban,Single,NA,84500.0,0,NA
+CID_14516,43,Male,Rural,Widowed,Graduate,28000.0,1,25
+CID_5809,61,Female,Suburban,Married,High School,51000.0,0,NA
+CID_10294,76,Female,Rural,Married,High School,65500.0,0,NA
+CID_10959,66,Male,Suburban,Married,Graduate,21000.0,1,32
+CID_7185,27,Female,Suburban,Married,Graduate,17500.0,0,NA
+CID_11955,29,Female,Rural,Divorced,Graduate,49500.0,0,NA
+CID_6171,28,Female,Suburban,Divorced,NA,54500.0,1,12
+CID_5019,42,Female,Suburban,Married,Graduate,74500.0,0,NA
+CID_9786,32,Male,Suburban,Widowed,Graduate,17000.0,0,NA
+CID_12674,25,Female,Suburban,Single,High School,58000.0,0,NA
+CID_8814,73,Female,Suburban,Married,Graduate,72000.0,0,NA
+CID_9594,46,Female,Suburban,Divorced,High School,32500.0,1,28
+CID_13067,42,Male,Suburban,Widowed,Graduate,21500.0,1,23
+CID_11519,23,Female,Suburban,Married,High School,80000.0,0,NA
+CID_8910,28,Male,Rural,Divorced,Graduate,50000.0,0,NA
+CID_11246,63,Female,Rural,Married,Graduate,28500.0,1,17
+CID_7467,34,Female,Urban,Married,Graduate,15500.0,1,17
+CID_10115,27,Male,Urban,Married,High School,64500.0,1,0
+CID_12233,47,Male,Suburban,Married,Graduate,32500.0,1,20
+CID_10729,53,Female,Urban,Married,High School,54000.0,1,30
+CID_13236,52,Female,Suburban,Married,Graduate,79500.0,0,NA
+CID_13316,76,Female,Urban,Married,Post-Graduate,12500.0,0,NA
+CID_10564,31,Male,Suburban,Married,Graduate,56500.0,1,0
+CID_7259,46,Female,Urban,Married,Graduate,33000.0,1,4
+CID_7415,52,Male,Rural,Divorced,Graduate,29000.0,0,NA
+CID_13199,61,Female,Suburban,Married,Graduate,47000.0,0,NA
+CID_13226,50,Male,Suburban,Single,Graduate,31000.0,0,NA
+CID_14730,44,Male,Rural,Married,High School,11500.0,0,NA
+CID_14326,60,Male,Rural,Divorced,Post-Graduate,86500.0,0,NA
+CID_6385,44,Female,Suburban,Married,Graduate,42000.0,0,NA
+CID_9196,23,Male,Suburban,Civil partnered,Graduate,85500.0,1,18
+CID_5745,51,Male,Rural,Widowed,Graduate,6500.0,1,6
+CID_10992,53,Male,Urban,Married,High School,37000.0,1,2
+CID_7701,24,Female,Suburban,Single,Post-Graduate,60000.0,0,NA
+CID_14065,54,Male,Urban,Married,Graduate,19000.0,0,NA
+CID_10195,64,Female,Rural,Married,Graduate,20500.0,1,3
+CID_13161,66,Female,Rural,Divorced,Graduate,83500.0,0,NA
+CID_14536,64,Male,Rural,Divorced,Graduate,65000.0,0,NA
+CID_7188,76,Female,Rural,Married,Post-Graduate,66000.0,0,NA
+CID_8346,51,Male,Suburban,Married,Graduate,69500.0,0,NA
+CID_6396,57,Male,Urban,Married,Post-Graduate,58000.0,0,NA
+CID_11314,22,Male,Suburban,Married,Post-Graduate,18000.0,0,NA
+CID_7181,64,Female,Suburban,Divorced,Graduate,39500.0,0,NA
+CID_8014,41,Male,Suburban,Divorced,Post-Graduate,88000.0,0,NA
+CID_14247,23,Female,Suburban,Married,NA,88500.0,1,0
+CID_8893,71,Male,Suburban,Married,Post-Graduate,68000.0,1,19
+CID_8149,38,Male,Suburban,Divorced,High School,12000.0,0,NA
+CID_6148,18,Female,Rural,Single,Graduate,78000.0,1,5
+CID_10472,71,Male,Suburban,Married,Post-Graduate,27000.0,1,11
+CID_10006,32,Female,Suburban,Single,Graduate,38000.0,0,NA
+CID_5189,19,Male,Suburban,Married,NA,58000.0,0,NA
+CID_9779,64,Male,Urban,Married,NA,20000.0,1,28
+CID_7624,25,Male,Urban,Single,NA,15500.0,0,NA
+CID_12836,20,Female,Rural,Divorced,High School,73500.0,1,50
+CID_9297,44,Male,Rural,Married,Graduate,58500.0,0,NA
+CID_6464,71,Female,Urban,Civil partnered,NA,65500.0,1,17
+CID_12718,35,Female,Suburban,Civil partnered,High School,71500.0,1,6
+CID_12098,33,Male,Rural,Married,High School,10000.0,1,21
+CID_14017,58,Male,Suburban,Divorced,High School,84500.0,0,NA
+CID_10526,36,Female,Rural,Divorced,High School,12500.0,1,11
+CID_11258,52,Male,Urban,Married,Graduate,8500.0,0,NA
+CID_5281,51,Male,Suburban,Single,Graduate,53500.0,1,59
+CID_12025,21,Male,Rural,Married,Post-Graduate,20500.0,0,NA
+CID_10398,60,Female,Rural,Divorced,Graduate,75500.0,1,15
+CID_7014,45,Female,Urban,Married,Graduate,10500.0,0,NA
+CID_10248,39,Male,Suburban,Married,High School,62500.0,0,NA
+CID_13205,68,Female,Urban,Divorced,NA,40000.0,1,13
+CID_14110,25,Female,Suburban,Married,Graduate,42000.0,0,NA
+CID_11241,22,Female,Urban,Widowed,Graduate,14000.0,0,NA
+CID_7513,41,Male,Rural,Single,Graduate,40500.0,0,NA
+CID_13576,19,Female,Suburban,Divorced,High School,42000.0,1,23
+CID_9888,38,Male,Suburban,Divorced,Graduate,45000.0,0,NA
+CID_13037,21,Female,Suburban,Single,High School,13500.0,1,21
+CID_12725,74,Male,Suburban,Civil partnered,High School,55500.0,0,NA
+CID_12367,24,Male,Suburban,Married,Graduate,86000.0,1,6
+CID_12958,59,Female,Urban,Married,Graduate,30500.0,0,NA
+CID_14102,29,Female,Suburban,Married,Graduate,36000.0,1,36
+CID_10616,26,Female,Urban,Married,NA,35500.0,0,NA
+CID_13190,37,Male,Rural,Civil partnered,Graduate,70000.0,1,16
+CID_11821,19,Male,Urban,Married,High School,34000.0,0,NA
+CID_10001,48,Male,Urban,Married,Graduate,33000.0,0,NA
+CID_14444,35,Female,Suburban,Single,High School,61000.0,1,36
+CID_7958,56,Female,Suburban,Single,Post-Graduate,19000.0,0,NA
+CID_12950,30,Female,Suburban,Married,NA,30000.0,0,NA
+CID_12286,68,Male,Urban,Married,Graduate,52000.0,1,42
+CID_5795,58,Male,Urban,Married,High School,42000.0,1,14
+CID_8406,24,Female,Urban,Single,Graduate,31500.0,0,NA
+CID_11554,51,Male,Rural,Married,Graduate,6500.0,0,NA
+CID_6255,69,Female,Suburban,Single,Graduate,77000.0,0,NA
+CID_11656,62,Male,Rural,Single,High School,14500.0,1,18
+CID_11654,38,Female,Urban,Widowed,Post-Graduate,30000.0,0,NA
+CID_14445,77,Male,Urban,Divorced,High School,22500.0,0,NA
+CID_12041,76,Male,Suburban,Divorced,Graduate,42500.0,0,NA
+CID_14830,50,Female,Suburban,Single,High School,72000.0,0,NA
+CID_14473,42,Male,Urban,Single,Graduate,42500.0,0,NA
+CID_12542,57,Female,Suburban,Widowed,Graduate,60000.0,0,NA
+CID_14810,24,Male,Suburban,Divorced,High School,9500.0,1,28
+CID_6326,59,Male,Urban,Civil partnered,High School,5500.0,0,NA
+CID_12312,40,Female,Urban,Married,High School,73500.0,0,NA
+CID_13172,72,Female,Suburban,Married,Graduate,40500.0,1,8
+CID_13696,45,Female,Urban,Married,Post-Graduate,39500.0,1,27
+CID_13111,49,Male,Rural,Married,High School,88000.0,0,NA
+CID_6717,57,Female,Suburban,Divorced,Post-Graduate,22500.0,1,19
+CID_7580,27,Male,Rural,Married,Post-Graduate,86500.0,0,NA
+CID_13101,23,Female,Rural,Married,Graduate,84000.0,1,9
+CID_12949,66,Male,Urban,Single,Graduate,42000.0,0,NA
+CID_9721,54,Female,Rural,Married,Post-Graduate,33500.0,0,NA
+CID_7515,41,Male,Rural,Single,NA,37500.0,0,NA
+CID_10021,55,Female,Suburban,Married,Graduate,30500.0,1,2
+CID_14819,18,Male,Urban,Married,NA,64000.0,0,NA
+CID_12217,41,Male,Suburban,Divorced,Graduate,45500.0,0,NA
+CID_14656,58,Male,Rural,Married,High School,22500.0,0,NA
+CID_11573,69,Female,Urban,Divorced,Graduate,27500.0,0,NA
+CID_14800,41,Male,Urban,Married,Graduate,8000.0,1,33
+CID_6582,43,Female,Suburban,Single,NA,40500.0,0,NA
+CID_5736,55,Female,Urban,Widowed,Graduate,18500.0,0,NA
+CID_8653,72,Female,Suburban,Single,High School,34000.0,1,25
+CID_13578,42,Female,Suburban,Married,NA,63500.0,0,NA
+CID_13724,26,Male,Urban,Married,High School,25000.0,1,17
+CID_8456,50,Female,Suburban,Divorced,NA,49000.0,1,41
+CID_8016,74,Male,Rural,Divorced,Graduate,44500.0,1,2
+CID_13652,69,Female,Rural,Married,Graduate,37500.0,1,14
+CID_14096,18,Female,Suburban,Single,Graduate,20000.0,1,9
+CID_11603,45,Female,Suburban,Married,Graduate,32500.0,1,15
+CID_5534,63,Female,Rural,Married,High School,42500.0,1,40
+CID_12951,26,Male,Urban,Married,High School,46500.0,0,NA
+CID_6598,69,Male,Suburban,Single,High School,85500.0,0,NA
+CID_9832,22,Male,Rural,Divorced,Graduate,69500.0,1,8
+CID_14372,38,Male,Rural,Single,High School,44000.0,0,NA
+CID_5440,61,Male,Suburban,Married,Post-Graduate,10000.0,1,10
+CID_11046,76,Male,Suburban,Divorced,Graduate,82500.0,0,NA
+CID_10383,48,Female,Urban,Single,Graduate,60000.0,1,7
+CID_6899,62,Female,Urban,Married,High School,80500.0,1,11
+CID_13814,57,Male,Suburban,Married,High School,71000.0,1,5
+CID_11214,25,Male,Suburban,Divorced,NA,25500.0,0,NA
+CID_6477,54,Female,Suburban,Married,Graduate,78500.0,0,NA
+CID_11193,45,Female,Urban,Married,Graduate,14500.0,1,1
+CID_13515,62,Male,Urban,Married,Post-Graduate,12500.0,1,25
+CID_5684,58,Female,Suburban,Married,Graduate,63500.0,1,1
+CID_8632,75,Female,Urban,Single,High School,42000.0,1,18
+CID_10033,62,Female,Urban,Married,Graduate,47500.0,1,15
+CID_7921,45,Female,Suburban,Married,NA,44500.0,0,NA
+CID_6044,63,Male,Rural,Married,Graduate,9500.0,1,11
+CID_5207,36,Male,Suburban,Married,High School,17000.0,0,NA
+CID_14896,49,Male,Urban,Single,Graduate,7000.0,0,NA
+CID_13680,53,Male,Suburban,Single,Graduate,29500.0,1,37
+CID_14749,33,Male,Suburban,Married,High School,65500.0,1,15
+CID_5569,30,Female,Rural,Married,Graduate,78500.0,0,NA
+CID_12223,44,Male,Suburban,Single,Post-Graduate,81500.0,0,NA
+CID_5924,18,Male,Suburban,Divorced,High School,75500.0,0,NA
+CID_6863,48,Female,Rural,Single,Graduate,19000.0,1,1
+CID_9134,74,Male,Suburban,Single,NA,44000.0,1,23
+CID_12429,75,Male,Urban,Single,High School,68500.0,0,NA
+CID_10752,55,Female,Rural,Widowed,Graduate,86500.0,1,2
+CID_9530,63,Female,Urban,Married,High School,65500.0,1,19
+CID_9110,40,Female,Urban,Divorced,Graduate,59500.0,0,NA
+CID_10567,56,Male,Suburban,Married,Post-Graduate,87000.0,0,NA
+CID_14162,60,Female,Suburban,Divorced,Graduate,39500.0,1,10
+CID_5145,58,Female,Urban,Divorced,High School,13000.0,0,NA
+CID_12537,64,Female,Suburban,Married,Graduate,19000.0,0,NA
+CID_5772,43,Female,Suburban,Divorced,NA,49000.0,1,7
+CID_11197,72,Male,Suburban,Married,Post-Graduate,9500.0,1,18
+CID_6744,59,Male,Rural,Married,Graduate,38500.0,1,15
+CID_8367,62,Female,Urban,Single,High School,75000.0,0,NA
+CID_13075,61,Female,Suburban,Widowed,Post-Graduate,30000.0,0,NA
+CID_12981,64,Male,Rural,Single,Post-Graduate,30500.0,0,NA
+CID_12498,20,Female,Urban,Married,High School,17500.0,0,NA
+CID_5055,27,Female,Suburban,Married,Graduate,83500.0,0,NA
+CID_5971,67,Male,Rural,Married,Graduate,44000.0,1,20
+CID_8576,22,Female,Urban,Married,Graduate,36500.0,1,36
+CID_13984,28,Female,Suburban,Divorced,Graduate,88500.0,0,NA
+CID_13693,31,Female,Urban,Divorced,Graduate,14500.0,1,18
+CID_7267,54,Female,Urban,Married,Graduate,67500.0,0,NA
+CID_13428,28,Male,Suburban,Divorced,Graduate,50000.0,0,NA
+CID_14796,28,Male,Suburban,Widowed,Post-Graduate,52000.0,0,NA
+CID_13047,31,Male,Urban,Married,Graduate,84500.0,1,8
+CID_5620,71,Male,Rural,Widowed,Graduate,44500.0,1,26
+CID_11868,23,Female,Urban,Married,High School,11000.0,0,NA
+CID_10870,73,Female,Urban,Civil partnered,Post-Graduate,75500.0,0,NA
+CID_9136,28,Female,Suburban,Single,High School,13500.0,0,NA
+CID_8954,26,Male,Rural,Married,High School,65000.0,1,13
+CID_12573,57,Male,Urban,Married,Post-Graduate,49500.0,1,2
+CID_14450,29,Female,Urban,Divorced,Graduate,68500.0,0,NA
+CID_12268,69,Female,Suburban,Married,Post-Graduate,40000.0,0,NA
+CID_13901,34,Female,Suburban,Married,Graduate,36000.0,0,NA
+CID_14831,73,Male,Suburban,Single,Post-Graduate,43500.0,0,NA
+CID_11172,41,Female,Suburban,Married,Graduate,16000.0,1,7
+CID_5947,39,Female,Suburban,Widowed,Graduate,21000.0,1,18
+CID_10825,29,Male,Suburban,Widowed,Graduate,52000.0,1,2
+CID_6358,30,Female,Rural,Single,High School,8500.0,0,NA
+CID_6789,45,Female,Urban,Divorced,High School,86500.0,1,17
+CID_11092,63,Female,Suburban,Divorced,Graduate,8000.0,0,NA
+CID_7633,48,Male,Urban,Married,High School,70000.0,1,1
+CID_12228,62,Female,Suburban,Married,Graduate,76000.0,0,NA
+CID_9877,57,Male,Suburban,Divorced,NA,29500.0,0,NA
+CID_10257,18,Female,Rural,Married,High School,41500.0,0,NA
+CID_9170,57,Male,Suburban,Married,Graduate,20000.0,1,14
+CID_9438,59,Male,Rural,Divorced,High School,80500.0,1,29
+CID_9143,32,Male,Rural,Divorced,Post-Graduate,88500.0,0,NA
+CID_12099,22,Male,Suburban,Married,Graduate,8500.0,1,0
+CID_5589,18,Female,Urban,Single,High School,15500.0,0,NA
+CID_13314,19,Female,Suburban,Single,Post-Graduate,11000.0,1,19
+CID_13194,74,Male,Urban,Married,Graduate,64000.0,1,14
+CID_7531,20,Male,Urban,Single,Post-Graduate,40500.0,1,7
+CID_9314,48,Male,Suburban,Single,Post-Graduate,36500.0,0,NA
+CID_7118,61,Female,Rural,Divorced,High School,71000.0,1,6
+CID_12119,72,Female,Urban,Married,Graduate,62500.0,0,NA
+CID_5109,33,Female,Suburban,Married,Graduate,65500.0,1,36
+CID_10276,44,Male,Suburban,Divorced,Graduate,17500.0,1,8
+CID_13305,32,Female,Rural,Single,High School,47500.0,0,NA
+CID_7060,24,Male,Suburban,Married,High School,21500.0,1,4
+CID_10468,49,Male,Suburban,Divorced,Graduate,74500.0,0,NA
+CID_5857,28,Female,Urban,Divorced,High School,23000.0,1,27
+CID_8857,45,Female,Suburban,Civil partnered,High School,20500.0,0,NA
+CID_8263,25,Female,Urban,Single,High School,66500.0,0,NA
+CID_10659,46,Female,Rural,Civil partnered,Post-Graduate,61500.0,1,5
+CID_5420,59,Female,Suburban,Divorced,Graduate,13000.0,0,NA
+CID_10631,34,Male,Rural,Widowed,High School,83500.0,0,NA
+CID_9670,74,Female,Rural,Married,Graduate,14000.0,0,NA
+CID_8057,75,Male,Rural,Married,High School,42000.0,1,15
+CID_6847,61,Male,Suburban,Single,NA,76500.0,1,9
+CID_13859,22,Male,Urban,Divorced,Graduate,53000.0,0,NA
+CID_5799,21,Male,Rural,Divorced,NA,76000.0,0,NA
+CID_12886,47,Female,Suburban,Single,Post-Graduate,45500.0,1,13
+CID_9217,72,Male,Urban,Single,Post-Graduate,57500.0,1,19
+CID_10878,34,Male,Rural,Single,Graduate,29500.0,0,NA
+CID_12080,72,Female,Urban,Married,Post-Graduate,32500.0,1,30
+CID_7484,35,Female,Suburban,Married,Graduate,79000.0,1,43
+CID_13120,24,Male,Urban,Married,Post-Graduate,21000.0,0,NA
+CID_7405,20,Female,Rural,Married,High School,51000.0,1,3
+CID_7459,54,Male,Rural,Single,Post-Graduate,70000.0,1,17
+CID_10093,59,Female,Rural,Married,High School,13000.0,1,27
+CID_7121,58,Male,Rural,Widowed,High School,63500.0,1,13
+CID_7494,38,Male,Suburban,Single,High School,52000.0,0,NA
+CID_14295,32,Female,Urban,Single,High School,27000.0,0,NA
+CID_10972,35,Female,Suburban,Married,Graduate,76500.0,0,NA
+CID_13171,61,Male,Suburban,Widowed,High School,65500.0,0,NA
+CID_13070,66,Female,Suburban,Married,Graduate,31500.0,0,NA
+CID_10369,41,Female,Suburban,Divorced,NA,80500.0,1,32
+CID_12799,26,Male,Suburban,Single,Graduate,85500.0,1,17
+CID_14636,48,Male,Suburban,Divorced,Graduate,44500.0,0,NA
+CID_8184,55,Male,Rural,Married,High School,26500.0,1,10
+CID_5139,59,Male,Rural,Married,Post-Graduate,61000.0,1,34
+CID_9133,27,Female,Suburban,Divorced,Graduate,33500.0,1,3
+CID_7505,18,Female,Suburban,Widowed,Graduate,30000.0,1,10
+CID_7771,37,Female,Suburban,Married,Graduate,19500.0,1,12
+CID_10476,68,Male,Suburban,Married,Graduate,86500.0,0,NA
+CID_10380,75,Male,Rural,Married,Graduate,51000.0,1,1
+CID_10650,23,Female,Suburban,Married,Graduate,52500.0,1,6
+CID_11069,52,Female,Suburban,Single,High School,84000.0,1,21
+CID_7421,48,Male,Urban,Single,High School,72500.0,0,NA
+CID_8183,61,Male,Suburban,Single,Graduate,42000.0,0,NA
+CID_8284,26,Female,Suburban,Widowed,Graduate,21000.0,1,18
+CID_10107,37,Female,Urban,Married,High School,22500.0,1,18
+CID_13616,73,Male,Suburban,Single,Post-Graduate,15500.0,0,NA
+CID_7300,55,Female,Suburban,Married,Post-Graduate,32000.0,1,2
+CID_12402,42,Female,Rural,Married,Post-Graduate,65000.0,0,NA
+CID_13302,20,Male,Rural,Divorced,Graduate,87500.0,1,12
+CID_5161,57,Female,Suburban,Married,Graduate,41500.0,1,12
+CID_13050,36,Male,Rural,Widowed,High School,76000.0,1,15
+CID_11447,74,Female,Urban,Single,Graduate,63500.0,1,21
+CID_11158,70,Female,Urban,Single,Graduate,77500.0,1,33
+CID_9305,30,Female,Rural,Married,Graduate,75500.0,1,18
+CID_6025,52,Male,Urban,Single,Post-Graduate,50500.0,0,NA
+CID_7795,32,Female,Urban,Married,Post-Graduate,46500.0,1,10
+CID_14669,21,Male,Suburban,Civil partnered,Graduate,58000.0,0,NA
+CID_12154,22,Female,Urban,Widowed,Post-Graduate,65000.0,0,NA
+CID_7431,66,Male,Urban,Single,Graduate,47500.0,1,39
+CID_10620,19,Female,Rural,Widowed,Graduate,18000.0,1,14
+CID_12347,52,Female,Suburban,Widowed,Graduate,9500.0,0,NA
+CID_7276,29,Female,Suburban,Divorced,Graduate,24500.0,1,32
+CID_10653,41,Female,Rural,Single,Graduate,50500.0,0,NA
+CID_5960,55,Male,Rural,Married,Post-Graduate,49000.0,1,28
+CID_10386,26,Female,Urban,Widowed,Graduate,32000.0,0,NA
+CID_8036,77,Female,Suburban,Married,Graduate,28000.0,1,4
+CID_7731,25,Female,Urban,Divorced,Graduate,18000.0,1,0
+CID_11934,44,Male,Suburban,Married,Graduate,22500.0,1,43
+CID_11636,33,Male,Urban,Married,Graduate,64000.0,1,23
+CID_14909,21,Male,Suburban,Married,High School,51500.0,1,21
+CID_12890,45,Female,Suburban,Divorced,High School,82000.0,1,7
+CID_11042,63,Male,Suburban,Married,Graduate,77500.0,1,22
+CID_12562,50,Female,Suburban,Divorced,Graduate,86000.0,0,NA
+CID_7425,19,Male,Suburban,Single,NA,79500.0,1,32
+CID_7598,66,Male,Rural,Widowed,Graduate,46500.0,0,NA
+CID_7061,45,Female,Suburban,Civil partnered,Post-Graduate,41000.0,0,NA
+CID_8181,45,Male,Suburban,Single,Graduate,55000.0,0,NA
+CID_10969,33,Female,Rural,Single,High School,59000.0,0,NA
+CID_12558,33,Male,Rural,Married,Graduate,33500.0,1,16
+CID_13653,44,Male,Suburban,Married,NA,15500.0,1,32
+CID_5557,25,Female,Suburban,Widowed,Graduate,8500.0,1,10
+CID_10806,36,Female,Suburban,Divorced,Graduate,43500.0,1,18
+CID_13509,67,Female,Suburban,Married,NA,23000.0,0,NA
+CID_9174,19,Male,Suburban,Divorced,High School,51500.0,0,NA
+CID_6499,43,Female,Suburban,Widowed,Graduate,41000.0,0,NA
+CID_8510,60,Male,Suburban,Married,Graduate,81500.0,1,6
+CID_11793,69,Female,Suburban,Single,Graduate,30000.0,1,3
+CID_13008,60,Female,Suburban,Married,Graduate,86500.0,1,11
+CID_14436,69,Male,Urban,Divorced,Graduate,41000.0,0,NA
+CID_9361,50,Female,Rural,Married,Graduate,6500.0,1,30
+CID_12022,30,Male,Suburban,Married,High School,63500.0,0,NA
+CID_9485,54,Male,Urban,Single,Post-Graduate,86000.0,0,NA
+CID_5806,21,Female,Urban,Married,Post-Graduate,85000.0,1,9
+CID_6387,76,Male,Suburban,Married,Graduate,7000.0,0,NA
+CID_12379,38,Female,Suburban,Single,Graduate,52000.0,1,1
+CID_10544,63,Male,Suburban,Married,NA,15000.0,0,NA
+CID_8556,61,Male,Rural,Divorced,High School,50500.0,0,NA
+CID_11301,23,Male,Rural,Married,High School,10000.0,1,8
+CID_14769,56,Female,Rural,Married,Graduate,19500.0,0,NA
+CID_13546,38,Female,Urban,Divorced,Graduate,87000.0,1,12
+CID_13767,63,Female,Suburban,Married,Graduate,7000.0,1,39
+CID_12338,21,Female,Suburban,Civil partnered,Graduate,89500.0,1,13
+CID_11997,22,Male,Suburban,Married,Graduate,31000.0,0,NA
+CID_11013,59,Male,Suburban,Married,Graduate,43500.0,0,NA
+CID_7720,61,Female,Suburban,Single,Graduate,43500.0,1,29
+CID_10427,23,Female,Suburban,Single,Graduate,20500.0,0,NA
+CID_12884,45,Female,Urban,Married,Graduate,7500.0,0,NA
+CID_14462,51,Male,Urban,Married,Graduate,64000.0,0,NA
+CID_14249,39,Female,Rural,Single,Graduate,40000.0,1,13
+CID_14852,51,Male,Rural,Married,High School,75500.0,1,15
+CID_9457,64,Male,Suburban,Married,Post-Graduate,33500.0,1,7
+CID_10999,28,Female,Suburban,Married,Graduate,80000.0,0,NA
+CID_6901,27,Male,Rural,Married,Graduate,69000.0,0,NA
+CID_7965,47,Male,Rural,Married,High School,42500.0,1,33
+CID_12936,44,Male,Suburban,Divorced,High School,74000.0,0,NA
+CID_13886,55,Female,Urban,Single,Graduate,17000.0,1,3
+CID_7506,63,Female,Rural,Divorced,High School,89500.0,0,NA
+CID_11116,42,Male,Suburban,Divorced,Post-Graduate,38000.0,1,11
+CID_9376,67,Male,Rural,Widowed,Graduate,29500.0,1,30
+CID_14709,56,Male,Suburban,Divorced,Graduate,38000.0,0,NA
+CID_10104,65,Female,Urban,Widowed,Graduate,38500.0,0,NA
+CID_7384,60,Female,Rural,Divorced,Post-Graduate,49500.0,1,9
+CID_14147,73,Male,Suburban,Widowed,Post-Graduate,55000.0,0,NA
+CID_14531,72,Female,Rural,Divorced,High School,53500.0,0,NA
+CID_14528,65,Female,Suburban,Married,High School,75500.0,1,18
+CID_5822,59,Female,Urban,Single,Graduate,50500.0,1,9
+CID_10868,53,Male,Rural,Divorced,High School,33000.0,0,NA
+CID_7846,74,Male,Rural,Divorced,NA,50000.0,1,6
+CID_14464,58,Male,Urban,Divorced,High School,44000.0,1,16
+CID_10994,23,Female,Suburban,Single,High School,19000.0,0,NA
+CID_9282,38,Female,Urban,Widowed,Graduate,47000.0,0,NA
+CID_9421,66,Male,Urban,Married,Graduate,65500.0,0,NA
+CID_12216,56,Female,Suburban,Widowed,Graduate,78500.0,1,23
+CID_8651,38,Male,Suburban,Civil partnered,High School,30500.0,0,NA
+CID_5115,52,Male,Suburban,Married,Graduate,30000.0,0,NA
+CID_7076,72,Female,Suburban,Married,High School,19500.0,1,1
+CID_6514,19,Male,Rural,Divorced,Post-Graduate,41500.0,1,41
+CID_8169,76,Female,Rural,Single,Post-Graduate,67500.0,0,NA
+CID_8737,41,Female,Rural,Divorced,Graduate,37500.0,1,39
+CID_13346,70,Female,Suburban,Married,NA,77000.0,1,3
+CID_5246,66,Male,Suburban,Married,High School,53000.0,1,32
+CID_9286,64,Male,Rural,Single,NA,58000.0,1,5
+CID_7441,69,Male,Urban,Married,Graduate,11000.0,0,NA
+CID_10272,69,Female,Suburban,Married,Graduate,13500.0,0,NA
+CID_5863,48,Female,Rural,Married,High School,27500.0,0,NA
+CID_14654,74,Male,Suburban,Married,High School,21500.0,0,NA
+CID_11095,33,Male,Suburban,Widowed,Graduate,87500.0,0,NA
+CID_10917,24,Male,Suburban,Married,Graduate,29500.0,1,5
+CID_14466,50,Male,Rural,Single,Graduate,24500.0,0,NA
+CID_5140,48,Male,Urban,Civil partnered,Graduate,64500.0,1,5
+CID_14715,36,Male,Rural,Divorced,Post-Graduate,40500.0,0,NA
+CID_7379,35,Female,Urban,Divorced,High School,21000.0,1,12
+CID_13931,72,Male,Suburban,Married,Post-Graduate,36500.0,0,NA
+CID_5244,74,Female,Suburban,Married,High School,72000.0,0,NA
+CID_6237,18,Male,Urban,Single,Graduate,66000.0,1,39
+CID_6295,19,Female,Rural,Married,High School,21500.0,1,38
+CID_5131,18,Male,Suburban,Married,Graduate,36500.0,0,NA
+CID_8167,49,Male,Suburban,Married,Graduate,24000.0,0,NA
+CID_5944,30,Female,Suburban,Single,Graduate,15500.0,0,NA
+CID_9433,69,Female,Suburban,Divorced,Graduate,46500.0,0,NA
+CID_14331,27,Male,Suburban,Married,Graduate,14500.0,0,NA
+CID_6420,73,Male,Rural,Married,High School,47500.0,0,NA
+CID_6920,40,Male,Suburban,Married,High School,86000.0,0,NA
+CID_7858,38,Female,Suburban,Married,Post-Graduate,88000.0,1,33
+CID_9085,24,Female,Suburban,Widowed,High School,84000.0,0,NA
+CID_8672,52,Male,Urban,Divorced,Post-Graduate,37500.0,1,20
+CID_14547,72,Male,Suburban,Married,Graduate,89500.0,0,NA
+CID_14973,29,Female,Suburban,Married,Graduate,45500.0,1,23
+CID_11332,66,Female,Urban,Divorced,Graduate,60500.0,1,3
+CID_8547,50,Female,Rural,Married,Post-Graduate,16000.0,0,NA
+CID_6075,56,Male,Suburban,Single,Graduate,81000.0,1,0
+CID_12156,67,Male,Suburban,Single,Graduate,15000.0,1,14
+CID_6893,32,Male,Suburban,Divorced,Graduate,16500.0,0,NA
+CID_14512,44,Male,Suburban,Married,Graduate,73500.0,1,17
+CID_7808,22,Male,Rural,Married,Post-Graduate,39000.0,0,NA
+CID_11201,46,Female,Rural,Single,High School,48000.0,1,2
+CID_9162,77,Male,Urban,Divorced,High School,84500.0,1,21
+CID_5584,51,Male,Suburban,Single,Post-Graduate,23000.0,1,20
+CID_6896,60,Male,Rural,Married,Graduate,20500.0,1,13
+CID_14837,29,Female,Suburban,Single,Post-Graduate,72000.0,0,NA
+CID_7543,50,Male,Urban,Married,Graduate,74500.0,0,NA
+CID_6930,76,Male,Suburban,Civil partnered,Post-Graduate,25500.0,0,NA
+CID_8999,28,Female,Urban,Married,Graduate,16000.0,1,39
+CID_5550,65,Male,Suburban,Married,Post-Graduate,45000.0,0,NA
+CID_14275,28,Male,Suburban,Divorced,Graduate,35500.0,0,NA
+CID_7931,49,Female,Urban,Divorced,NA,19000.0,1,12
+CID_12722,53,Female,Urban,Single,Graduate,56500.0,0,NA
+CID_5975,77,Male,Suburban,Married,Graduate,55500.0,0,NA
+CID_13632,38,Female,Rural,Married,High School,18000.0,0,NA
+CID_11717,37,Male,Urban,Married,Graduate,77500.0,0,NA
+CID_7020,55,Male,Suburban,Widowed,Post-Graduate,40500.0,1,6
+CID_6545,34,Female,Rural,Single,Post-Graduate,27000.0,0,NA
+CID_10921,47,Male,Suburban,Married,High School,20500.0,1,36
+CID_8459,53,Male,Rural,Married,Graduate,33500.0,1,8
+CID_11277,46,Female,Rural,Divorced,Graduate,41000.0,0,NA
+CID_6314,75,Male,Suburban,Widowed,Post-Graduate,84500.0,1,18
+CID_6006,35,Male,Suburban,Married,Graduate,88500.0,0,NA
+CID_8543,63,Female,Rural,Married,Graduate,26500.0,1,1
+CID_14980,73,Male,Rural,Married,Graduate,58000.0,0,NA
+CID_14459,45,Male,Rural,Married,Graduate,64000.0,1,0
+CID_5094,58,Male,Suburban,Single,Graduate,19000.0,1,7
+CID_7342,41,Male,Rural,Married,High School,68500.0,1,23
+CID_5973,48,Female,Suburban,Civil partnered,Graduate,29500.0,0,NA
+CID_7375,37,Male,Rural,Married,Graduate,57000.0,0,NA
+CID_6886,60,Male,Suburban,Single,Graduate,47500.0,0,NA
+CID_14616,51,Female,Rural,Divorced,Graduate,29500.0,0,NA
+CID_7037,48,Female,Suburban,Divorced,Graduate,83000.0,0,NA
+CID_14559,26,Female,Suburban,Single,Graduate,46000.0,1,9
+CID_11598,43,Female,Rural,Married,Graduate,84500.0,1,13
+CID_10140,56,Female,Suburban,Single,High School,55500.0,1,47
+CID_5083,45,Female,Rural,Married,High School,8000.0,1,9
+CID_6098,47,Female,Urban,Married,High School,61500.0,0,NA
+CID_7159,58,Male,Rural,Married,Post-Graduate,28000.0,1,22
+CID_9669,57,Male,Suburban,Married,Post-Graduate,74000.0,0,NA
+CID_14523,24,Male,Rural,Civil partnered,Graduate,64000.0,0,NA
+CID_8795,46,Male,Suburban,Married,Graduate,85500.0,1,29
+CID_5238,19,Female,Suburban,Divorced,High School,74500.0,1,5
+CID_14133,27,Female,Urban,Single,Graduate,36500.0,1,17
+CID_10887,72,Male,Suburban,Married,High School,71500.0,1,4
+CID_14203,30,Male,Suburban,Single,Graduate,12500.0,1,29
+CID_10126,18,Male,Suburban,Civil partnered,Graduate,39000.0,0,NA
+CID_12998,18,Female,Suburban,Single,Graduate,42500.0,1,23
+CID_14529,32,Male,Suburban,Married,Graduate,82000.0,0,NA
+CID_6406,74,Female,Rural,Married,Post-Graduate,70500.0,1,21
+CID_9310,47,Female,Suburban,Civil partnered,Graduate,17500.0,0,NA
+CID_11005,75,Male,Rural,Married,Graduate,76500.0,0,NA
+CID_14918,20,Female,Urban,Married,NA,22000.0,0,NA
+CID_5314,58,Male,Suburban,Married,Graduate,89500.0,0,NA
+CID_14904,60,Female,Suburban,Divorced,Graduate,65500.0,0,NA
+CID_6082,47,Male,Rural,Married,Post-Graduate,73000.0,0,NA
+CID_5665,62,Male,Suburban,Widowed,Graduate,10500.0,1,24
+CID_10885,31,Male,Suburban,Single,Graduate,59000.0,0,NA
+CID_10128,67,Male,Suburban,Widowed,Post-Graduate,78000.0,1,2
+CID_5813,56,Female,Suburban,Widowed,Graduate,53000.0,0,NA
+CID_7655,39,Female,Urban,Married,Graduate,61500.0,1,20
+CID_11692,38,Male,Urban,Divorced,Graduate,40500.0,1,13
+CID_8043,18,Male,Suburban,Divorced,Graduate,43500.0,0,NA
+CID_5720,40,Female,Suburban,Widowed,Post-Graduate,58500.0,1,18
+CID_7973,37,Female,Rural,Widowed,Post-Graduate,70500.0,1,0
+CID_14333,68,Male,Suburban,Civil partnered,Post-Graduate,72500.0,1,27
+CID_6736,65,Female,Rural,Divorced,High School,27000.0,1,6
+CID_7190,53,Female,Suburban,Widowed,Graduate,7000.0,0,NA
+CID_12485,64,Male,Urban,Single,High School,71000.0,1,3
+CID_11369,71,Male,Suburban,Divorced,NA,31500.0,1,13
+CID_11434,62,Female,Rural,Married,Graduate,82500.0,1,39
+CID_8394,22,Male,Urban,Married,High School,83000.0,1,35
+CID_9304,39,Female,Suburban,Married,Graduate,25000.0,0,NA
+CID_5064,56,Male,Suburban,Married,High School,83000.0,0,NA
+CID_8339,40,Male,Suburban,Single,Post-Graduate,31000.0,1,6
+CID_7864,30,Female,Rural,Single,NA,26500.0,1,8
+CID_10196,50,Female,Urban,Married,Graduate,64500.0,1,12
+CID_6131,32,Male,Suburban,Married,High School,71000.0,1,38
+CID_14209,68,Male,Suburban,Married,Graduate,16000.0,1,40
+CID_13370,22,Female,Rural,Single,Graduate,28000.0,0,NA
+CID_10448,31,Female,Suburban,Widowed,Graduate,43500.0,1,4
+CID_6506,54,Male,Urban,Married,Graduate,13000.0,1,37
+CID_12804,44,Male,Rural,Married,Graduate,34000.0,1,28
+CID_7328,53,Female,Urban,Single,Graduate,37500.0,1,12
+CID_6198,52,Male,Suburban,Married,Post-Graduate,43000.0,1,28
+CID_6523,50,Female,Suburban,Divorced,High School,11000.0,0,NA
+CID_8549,28,Male,Suburban,Married,Graduate,6500.0,1,6
+CID_5072,45,Male,Urban,Widowed,Graduate,43500.0,1,34
+CID_11165,40,Female,Urban,Divorced,NA,62000.0,0,NA
+CID_11411,32,Male,Suburban,Single,Post-Graduate,72500.0,1,14
+CID_5717,43,Female,Suburban,Married,Graduate,57500.0,1,40
+CID_9722,65,Male,Suburban,Single,Post-Graduate,18000.0,1,16
+CID_13055,37,Male,Rural,Widowed,Graduate,79000.0,1,25
+CID_9342,57,Male,Suburban,Single,Post-Graduate,83000.0,1,3
+CID_10324,54,Male,Suburban,Married,Post-Graduate,81000.0,0,NA
+CID_9026,27,Male,Urban,Civil partnered,NA,50000.0,1,12
+CID_6391,42,Female,Suburban,Widowed,NA,84500.0,0,NA
+CID_7109,73,Female,Suburban,Single,Graduate,51000.0,1,15
+CID_13380,75,Female,Rural,Married,High School,48500.0,1,18
+CID_10834,39,Female,Suburban,Married,Graduate,15000.0,0,NA
+CID_10154,18,Female,Suburban,Civil partnered,Graduate,15500.0,1,2
+CID_5576,20,Female,Urban,Married,High School,49000.0,0,NA
+CID_8572,73,Male,Rural,Married,High School,28000.0,1,19
+CID_10244,52,Male,Suburban,Married,Graduate,60000.0,1,8
+CID_14447,61,Male,Rural,Married,Graduate,32500.0,0,NA
+CID_13526,76,Female,Suburban,Married,Graduate,46000.0,0,NA
+CID_6320,24,Female,Urban,Single,Graduate,7000.0,1,5
+CID_11506,24,Male,Urban,Single,High School,57500.0,1,40
+CID_10848,58,Male,Urban,Single,High School,87000.0,0,NA
+CID_9565,62,Female,Rural,Married,NA,11000.0,0,NA
+CID_12848,56,Female,Urban,Married,High School,87500.0,0,NA
+CID_6460,38,Female,Rural,Civil partnered,Post-Graduate,7500.0,0,NA
+CID_7836,34,Female,Suburban,Widowed,NA,80500.0,1,7
+CID_9919,53,Male,Urban,Married,Graduate,77000.0,0,NA
+CID_6342,69,Female,Suburban,Divorced,High School,41000.0,0,NA
+CID_5400,76,Female,Urban,Married,High School,57000.0,1,33
+CID_9841,63,Female,Suburban,Married,Post-Graduate,78000.0,1,5
+CID_7722,41,Female,Suburban,Divorced,Graduate,89000.0,0,NA
+CID_14113,55,Female,Rural,Divorced,Graduate,17500.0,0,NA
+CID_13405,41,Male,Urban,Widowed,Graduate,44000.0,0,NA
+CID_11618,64,Male,Suburban,Divorced,High School,40000.0,0,NA
+CID_7869,31,Male,Suburban,Widowed,Graduate,75500.0,1,36
+CID_8229,41,Female,Urban,Single,Graduate,85500.0,1,17
+CID_8841,69,Female,Suburban,Divorced,Graduate,57000.0,1,15
+CID_8681,45,Male,Urban,Married,High School,65000.0,1,0
+CID_13785,41,Female,Suburban,Married,Graduate,12500.0,0,NA
+CID_12195,58,Female,Suburban,Single,High School,8500.0,0,NA
+CID_6519,24,Male,Rural,Married,NA,38500.0,1,3
+CID_6129,21,Male,Suburban,Divorced,High School,40500.0,0,NA
+CID_12430,67,Female,Suburban,Married,High School,38500.0,0,NA
+CID_7087,67,Male,Suburban,Widowed,High School,63500.0,0,NA
+CID_5471,69,Male,Rural,Single,High School,29000.0,0,NA
+CID_12126,61,Female,Urban,Married,Graduate,8500.0,1,4
+CID_11617,48,Male,Rural,Married,NA,49500.0,1,2
+CID_6935,25,Female,Suburban,Single,Graduate,43500.0,0,NA
+CID_12137,26,Female,Suburban,Married,Graduate,55500.0,1,23
+CID_9806,44,Female,Suburban,Divorced,Graduate,28000.0,0,NA
+CID_11081,55,Female,Rural,Divorced,Post-Graduate,35000.0,1,35
+CID_7310,29,Male,Urban,Married,Graduate,45000.0,0,NA
+CID_6807,42,Female,Suburban,Married,Graduate,47000.0,1,16
+CID_12815,22,Female,Suburban,Single,High School,69000.0,0,NA
+CID_8412,48,Female,Urban,Married,Graduate,55500.0,1,11
+CID_5925,38,Male,Rural,Divorced,High School,20000.0,0,NA
+CID_8905,32,Male,Suburban,Divorced,High School,29500.0,0,NA
+CID_6786,53,Male,Suburban,Married,Post-Graduate,41500.0,1,9
+CID_8252,64,Male,Suburban,Married,Graduate,24000.0,0,NA
+CID_10817,54,Male,Suburban,Married,High School,62000.0,1,17
+CID_6968,61,Male,Rural,Divorced,High School,35500.0,1,1
+CID_5010,42,Female,Urban,Single,Post-Graduate,81500.0,1,13
+CID_14380,56,Female,Suburban,Widowed,High School,64000.0,1,11
+CID_9373,55,Male,Rural,Divorced,Graduate,24000.0,0,NA
+CID_13642,34,Male,Suburban,Divorced,Graduate,28000.0,0,NA
+CID_9293,26,Female,Suburban,Married,Graduate,78000.0,1,16
+CID_12575,32,Male,Suburban,Divorced,High School,12500.0,1,23
+CID_14379,57,Female,Urban,Married,Graduate,18000.0,1,14
+CID_11065,35,Female,Suburban,Married,Graduate,70500.0,0,NA
+CID_7266,59,Male,Urban,Married,High School,34500.0,0,NA
+CID_12251,71,Female,Suburban,Married,Post-Graduate,34000.0,1,9
+CID_5754,46,Male,Suburban,Married,Graduate,16000.0,1,43
+CID_12033,20,Male,Suburban,Married,Post-Graduate,10500.0,0,NA
+CID_10835,71,Female,Rural,Married,High School,49000.0,1,20
+CID_5821,59,Female,Urban,Divorced,High School,30500.0,0,NA
+CID_5130,45,Female,Urban,Married,Post-Graduate,58500.0,0,NA
+CID_12299,57,Female,Suburban,Married,Graduate,39000.0,1,5
+CID_7838,51,Female,Suburban,Married,High School,40500.0,0,NA
+CID_6261,57,Female,Urban,Single,Post-Graduate,13500.0,1,14
+CID_8830,70,Male,Suburban,Married,Post-Graduate,88000.0,1,27
+CID_8293,62,Female,Rural,Single,High School,12500.0,0,NA
+CID_5553,54,Male,Suburban,Civil partnered,Graduate,14000.0,0,NA
+CID_7211,39,Male,Suburban,Civil partnered,Graduate,78500.0,1,6
+CID_11307,23,Female,Suburban,Widowed,High School,31000.0,1,17
+CID_12375,52,Male,Urban,Civil partnered,Graduate,34000.0,0,NA
+CID_10388,22,Male,Suburban,Divorced,Graduate,36500.0,0,NA
+CID_8966,21,Female,Suburban,Single,Graduate,79000.0,1,2
+CID_6466,43,Female,Suburban,Single,High School,19000.0,1,47
+CID_11993,50,Female,Suburban,Single,Graduate,88000.0,1,36
+CID_11130,63,Female,Suburban,Married,Graduate,82500.0,1,16
+CID_13085,63,Male,Suburban,Married,NA,58500.0,1,19
+CID_14478,56,Male,Rural,Divorced,Graduate,57000.0,1,2
+CID_5457,28,Male,Rural,Married,Graduate,48000.0,1,2
+CID_13281,23,Male,Suburban,Married,Graduate,25000.0,0,NA
+CID_12232,32,Male,Suburban,Married,High School,84500.0,1,9
+CID_13610,24,Female,Rural,Married,High School,74000.0,0,NA
+CID_10192,58,Male,Rural,Single,Post-Graduate,36000.0,0,NA
+CID_10530,49,Female,Suburban,Married,Graduate,21500.0,1,7
+CID_14732,42,Female,Urban,Single,Graduate,44000.0,0,NA
+CID_11087,31,Female,Urban,Widowed,Graduate,23500.0,0,NA
+CID_8347,66,Female,Suburban,Single,High School,65500.0,1,10
+CID_10214,20,Female,Rural,Married,Graduate,25000.0,0,NA
+CID_11350,77,Male,Rural,Married,Post-Graduate,17000.0,1,25
+CID_9061,45,Female,Urban,Divorced,High School,80000.0,1,17
+CID_10316,30,Male,Rural,Married,NA,42500.0,0,NA
+CID_9089,40,Female,Suburban,Divorced,Graduate,53500.0,1,25
+CID_11177,27,Female,Urban,Single,Post-Graduate,73000.0,0,NA
+CID_10816,74,Male,Suburban,Single,Graduate,88000.0,1,32
+CID_14034,53,Male,Suburban,Single,High School,80500.0,0,NA
+CID_10061,29,Male,Rural,Married,Graduate,74000.0,0,NA
+CID_6600,42,Male,Suburban,Married,Graduate,40000.0,1,33
+CID_6283,49,Female,Suburban,Single,Graduate,67500.0,1,14
+CID_14281,56,Female,Rural,Single,Graduate,31000.0,0,NA
+CID_10780,54,Female,Urban,Single,Graduate,63500.0,0,NA
+CID_10412,29,Female,Rural,Married,Post-Graduate,70000.0,0,NA
+CID_13382,51,Female,Rural,Widowed,NA,74500.0,1,11
