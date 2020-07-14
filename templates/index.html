@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>ML Deployment</title>
+<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+<body>
+
+  <img
+           src = "https://www.theretailbulletin.com/wp-content/uploads/2020/01/Holland-Barrett.jpg"
+           width = "300"
+           height = "150" >
+
+ <div class="login">
+	<h9>Predict Holland&Barrett Transactions</h9>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+
+    	<input type="text" name="total_items" placeholder="Total Items" required="required" />
+      <input type="text" name="total_sales" placeholder="Total Sales" required="required" />
+		  <input type="text" name="discounted_sales" placeholder="Discounted Sales" required="required" />
+		  <input type="text" name="browsing_duration" placeholder="Browsing Duration" required="required" />
+        <input type="text" name="age" placeholder="Customer Age" required="required" />
+        <input type="text" name="household_income" placeholder="Household Income" required="required" />
+		<input type="text" name="loyalty_points" placeholder="Loyalty Points" required="required" />
+		<input type="text" name="month" placeholder="Transaction Month" required="required" />
+        <input type="text" name="loyalty_card" placeholder="Loyalty Card" required="required" />
+        <input type="text" name="education" placeholder="Education Level" required="required" />
+		<input type="text" name="marital_status" placeholder="Marital Status" required="required" />
+		<input type="text" name="region" placeholder="Region" required="required" />
+    <input type="text" name="gender" placeholder="Gender" required="required" />
+
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+   <br>
+   <br>
+   {{ prediction_text }}
+ </div>
+</body>
+</html>
